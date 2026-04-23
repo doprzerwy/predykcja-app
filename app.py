@@ -19,14 +19,14 @@ files_map = {
 }
 
 # ========================
-# NORMALIZACJA
+# FUNKCJE
 # ========================
-def normalize(name):
-    return name.strip().lower().replace("–", "-")
+def avg(x): return sum(x)/len(x) if x else 0
+def get_last(x, n=5): return x[-n:]
 
 def clean_team(x):
     x = re.sub(r'\d{1,2} \w+, \d{2}:\d{2}', '', x)
-    return normalize(x)
+    return x.replace("–", "-").strip()
 
 # ========================
 # LOAD DATA
@@ -37,11 +37,8 @@ with open(BASE_PATH + f1, encoding="utf-8") as a, open(BASE_PATH + f2, encoding=
     data = {"kolejki": json.load(a)["kolejki"] + json.load(b)["kolejki"]}
 
 # ========================
-# FUNKCJE POMOCNICZE
+# BUILD TEAMS + MATCHES
 # ========================
-def avg(x): return sum(x)/len(x) if x else 0
-def get_last(x, n=5): return x[-n:]
-
 teams = {}
 all_matches = []
 
@@ -56,15 +53,12 @@ for k in data["kolejki"]:
         if g1 > g2:
             teams[h]["points"].append(3)
             teams[a]["points"].append(0)
-            res = "1"
         elif g1 < g2:
             teams[h]["points"].append(0)
             teams[a]["points"].append(3)
-            res = "2"
         else:
             teams[h]["points"].append(1)
             teams[a]["points"].append(1)
-            res = "X"
 
         teams[h]["scored"].append(g1)
         teams[h]["conceded"].append(g2)
@@ -85,7 +79,6 @@ X, y = [], []
 for k in data["kolejki"]:
     for m in k["mecze"]:
         h, a = m["home"], m["away"]
-
         hd, ad = teams[h], teams[a]
 
         feats = [
@@ -103,15 +96,15 @@ model = RandomForestClassifier(n_estimators=100, random_state=42)
 model.fit(X, y)
 
 # ========================
-# H2H
+# H2H (NA ORYGINALNYCH NAZWACH)
 # ========================
 def get_h2h(home, away):
     res = []
 
     for m in all_matches:
         if (
-            (normalize(m["home"]) == home and normalize(m["away"]) == away) or
-            (normalize(m["home"]) == away and normalize(m["away"]) == home)
+            (m["home"] == home and m["away"] == away) or
+            (m["home"] == away and m["away"] == home)
         ):
             res.append(m)
 
@@ -138,25 +131,19 @@ if st.button("Generuj"):
     for line in lines:
         if "-" in line:
             parts = line.split("-")
-            home = clean_team(parts[0])
-            away = clean_team(parts[1])
-
             matches.append({
                 "home_raw": parts[0].strip(),
-                "away_raw": parts[1].strip(),
-                "home": home,
-                "away": away
+                "away_raw": parts[1].strip()
             })
 
     results = []
 
     for m in matches:
         h_raw, a_raw = m["home_raw"], m["away_raw"]
-        h, a = m["home"], m["away"]
 
-        # znajdź oryginalne nazwy w teams
-        h_key = next((t for t in teams if normalize(t) == h), None)
-        a_key = next((t for t in teams if normalize(t) == a), None)
+        # znajdź dokładne nazwy w danych
+        h_key = next((t for t in teams if t.lower() == h_raw.lower()), None)
+        a_key = next((t for t in teams if t.lower() == a_raw.lower()), None)
 
         if not h_key or not a_key:
             continue
@@ -182,7 +169,7 @@ if st.button("Generuj"):
             "p1": round(prob[0], 2),
             "px": round(prob[1], 2),
             "p2": round(prob[2], 2),
-            "h2h": get_h2h(h, a)
+            "h2h": get_h2h(h_key, a_key)
         })
 
     # ========================
@@ -222,7 +209,6 @@ if st.button("Generuj"):
         else:
             row += ["", "", "", ""]
 
-    # pewniak
     if results:
         best = max(results, key=lambda r: max(r["p1"], r["px"], r["p2"]))
         pewniak = f"{best['home']} - {best['away']} ({best['prediction']}) {level(best)}"
