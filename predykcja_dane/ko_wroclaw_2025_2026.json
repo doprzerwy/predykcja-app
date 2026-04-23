@@ -1,0 +1,1769 @@
+{
+  "kolejki": [
+    {
+      "nr": 1,
+      "mecze": [
+        {
+          "home": "Piast Żerniki (Wrocław)",
+          "away": "Polonia Trzebnica",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Strzelinianka Strzelin",
+          "away": "Orzeł Pawłowice (Wrocław)",
+          "score": {
+            "home": 4,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "KS Łozina",
+          "away": "Piast Lutynia",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Piast II Żmigród",
+          "away": "WKS Wierzbice",
+          "score": {
+            "home": 3,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Wratislavia Wrocław",
+          "away": "Rokita 1946 Brzeg Dolny",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "MKP Wołów",
+          "away": "Polonia Bielany Wrocławskie",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Sokół Marcinkowice",
+          "away": "Orzeł Marszowice",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Zenit Międzybórz",
+          "away": "Błysk Kuźniczysko",
+          "score": {
+            "home": 3,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 2,
+      "mecze": [
+        {
+          "home": "Polonia Trzebnica",
+          "away": "Błysk Kuźniczysko",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Marszowice",
+          "away": "Zenit Międzybórz",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Polonia Bielany Wrocławskie",
+          "away": "Sokół Marcinkowice",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Rokita 1946 Brzeg Dolny",
+          "away": "MKP Wołów",
+          "score": {
+            "home": 3,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "WKS Wierzbice",
+          "away": "Wratislavia Wrocław",
+          "score": {
+            "home": 4,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Piast Lutynia",
+          "away": "Piast II Żmigród",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Pawłowice (Wrocław)",
+          "away": "KS Łozina",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Piast Żerniki (Wrocław)",
+          "away": "Strzelinianka Strzelin",
+          "score": {
+            "home": 8,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 3,
+      "mecze": [
+        {
+          "home": "Strzelinianka Strzelin",
+          "away": "Polonia Trzebnica",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "KS Łozina",
+          "away": "Piast Żerniki (Wrocław)",
+          "score": {
+            "home": 3,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Piast II Żmigród",
+          "away": "Orzeł Pawłowice (Wrocław)",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Wratislavia Wrocław",
+          "away": "Piast Lutynia",
+          "score": {
+            "home": 0,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "MKP Wołów",
+          "away": "WKS Wierzbice",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Sokół Marcinkowice",
+          "away": "Rokita 1946 Brzeg Dolny",
+          "score": {
+            "home": 3,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Zenit Międzybórz",
+          "away": "Polonia Bielany Wrocławskie",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Błysk Kuźniczysko",
+          "away": "Orzeł Marszowice",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 4,
+      "mecze": [
+        {
+          "home": "Polonia Trzebnica",
+          "away": "Orzeł Marszowice",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Polonia Bielany Wrocławskie",
+          "away": "Błysk Kuźniczysko",
+          "score": {
+            "home": 7,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Rokita 1946 Brzeg Dolny",
+          "away": "Zenit Międzybórz",
+          "score": {
+            "home": 5,
+            "away": 3
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "WKS Wierzbice",
+          "away": "Sokół Marcinkowice",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Piast Lutynia",
+          "away": "MKP Wołów",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Pawłowice (Wrocław)",
+          "away": "Wratislavia Wrocław",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Piast Żerniki (Wrocław)",
+          "away": "Piast II Żmigród",
+          "score": {
+            "home": 4,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Strzelinianka Strzelin",
+          "away": "KS Łozina",
+          "score": {
+            "home": 5,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 5,
+      "mecze": [
+        {
+          "home": "KS Łozina",
+          "away": "Polonia Trzebnica",
+          "score": {
+            "home": 3,
+            "away": 3
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Piast II Żmigród",
+          "away": "Strzelinianka Strzelin",
+          "score": {
+            "home": 4,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Wratislavia Wrocław",
+          "away": "Piast Żerniki (Wrocław)",
+          "score": {
+            "home": 4,
+            "away": 7
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "MKP Wołów",
+          "away": "Orzeł Pawłowice (Wrocław)",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Sokół Marcinkowice",
+          "away": "Piast Lutynia",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Zenit Międzybórz",
+          "away": "WKS Wierzbice",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Błysk Kuźniczysko",
+          "away": "Rokita 1946 Brzeg Dolny",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Marszowice",
+          "away": "Polonia Bielany Wrocławskie",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 6,
+      "mecze": [
+        {
+          "home": "Polonia Trzebnica",
+          "away": "Polonia Bielany Wrocławskie",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Rokita 1946 Brzeg Dolny",
+          "away": "Orzeł Marszowice",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "WKS Wierzbice",
+          "away": "Błysk Kuźniczysko",
+          "score": {
+            "home": 5,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Piast Lutynia",
+          "away": "Zenit Międzybórz",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Pawłowice (Wrocław)",
+          "away": "Sokół Marcinkowice",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Piast Żerniki (Wrocław)",
+          "away": "MKP Wołów",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Strzelinianka Strzelin",
+          "away": "Wratislavia Wrocław",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "KS Łozina",
+          "away": "Piast II Żmigród",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 7,
+      "mecze": [
+        {
+          "home": "Piast II Żmigród",
+          "away": "Polonia Trzebnica",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Wratislavia Wrocław",
+          "away": "KS Łozina",
+          "score": {
+            "home": 4,
+            "away": 4
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "MKP Wołów",
+          "away": "Strzelinianka Strzelin",
+          "score": {
+            "home": 5,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Sokół Marcinkowice",
+          "away": "Piast Żerniki (Wrocław)",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Zenit Międzybórz",
+          "away": "Orzeł Pawłowice (Wrocław)",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Błysk Kuźniczysko",
+          "away": "Piast Lutynia",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Marszowice",
+          "away": "WKS Wierzbice",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Polonia Bielany Wrocławskie",
+          "away": "Rokita 1946 Brzeg Dolny",
+          "score": {
+            "home": 3,
+            "away": 3
+          },
+          "result": "X",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 8,
+      "mecze": [
+        {
+          "home": "Polonia Trzebnica",
+          "away": "Rokita 1946 Brzeg Dolny",
+          "score": {
+            "home": 2,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "WKS Wierzbice",
+          "away": "Polonia Bielany Wrocławskie",
+          "score": {
+            "home": 1,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Piast Lutynia",
+          "away": "Orzeł Marszowice",
+          "score": {
+            "home": 3,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Pawłowice (Wrocław)",
+          "away": "Błysk Kuźniczysko",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Piast Żerniki (Wrocław)",
+          "away": "Zenit Międzybórz",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Strzelinianka Strzelin",
+          "away": "Sokół Marcinkowice",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "KS Łozina",
+          "away": "MKP Wołów",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Piast II Żmigród",
+          "away": "Wratislavia Wrocław",
+          "score": {
+            "home": 6,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 9,
+      "mecze": [
+        {
+          "home": "Wratislavia Wrocław",
+          "away": "Polonia Trzebnica",
+          "score": {
+            "home": 1,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "MKP Wołów",
+          "away": "Piast II Żmigród",
+          "score": {
+            "home": 5,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Sokół Marcinkowice",
+          "away": "KS Łozina",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Zenit Międzybórz",
+          "away": "Strzelinianka Strzelin",
+          "score": {
+            "home": 3,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Błysk Kuźniczysko",
+          "away": "Piast Żerniki (Wrocław)",
+          "score": {
+            "home": 4,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Marszowice",
+          "away": "Orzeł Pawłowice (Wrocław)",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Polonia Bielany Wrocławskie",
+          "away": "Piast Lutynia",
+          "score": {
+            "home": 4,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Rokita 1946 Brzeg Dolny",
+          "away": "WKS Wierzbice",
+          "score": {
+            "home": 2,
+            "away": 6
+          },
+          "result": "2",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 10,
+      "mecze": [
+        {
+          "home": "Polonia Trzebnica",
+          "away": "WKS Wierzbice",
+          "score": {
+            "home": 7,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Piast Lutynia",
+          "away": "Rokita 1946 Brzeg Dolny",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Pawłowice (Wrocław)",
+          "away": "Polonia Bielany Wrocławskie",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Piast Żerniki (Wrocław)",
+          "away": "Orzeł Marszowice",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Strzelinianka Strzelin",
+          "away": "Błysk Kuźniczysko",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "KS Łozina",
+          "away": "Zenit Międzybórz",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Piast II Żmigród",
+          "away": "Sokół Marcinkowice",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Wratislavia Wrocław",
+          "away": "MKP Wołów",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 11,
+      "mecze": [
+        {
+          "home": "MKP Wołów",
+          "away": "Polonia Trzebnica",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Sokół Marcinkowice",
+          "away": "Wratislavia Wrocław",
+          "score": {
+            "home": 5,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Zenit Międzybórz",
+          "away": "Piast II Żmigród",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Błysk Kuźniczysko",
+          "away": "KS Łozina",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Marszowice",
+          "away": "Strzelinianka Strzelin",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Polonia Bielany Wrocławskie",
+          "away": "Piast Żerniki (Wrocław)",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Rokita 1946 Brzeg Dolny",
+          "away": "Orzeł Pawłowice (Wrocław)",
+          "score": {
+            "home": 4,
+            "away": 3
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "WKS Wierzbice",
+          "away": "Piast Lutynia",
+          "score": {
+            "home": 4,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 12,
+      "mecze": [
+        {
+          "home": "Polonia Trzebnica",
+          "away": "Piast Lutynia",
+          "score": {
+            "home": 6,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Pawłowice (Wrocław)",
+          "away": "WKS Wierzbice",
+          "score": {
+            "home": 0,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Piast Żerniki (Wrocław)",
+          "away": "Rokita 1946 Brzeg Dolny",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Strzelinianka Strzelin",
+          "away": "Polonia Bielany Wrocławskie",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "KS Łozina",
+          "away": "Orzeł Marszowice",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Piast II Żmigród",
+          "away": "Błysk Kuźniczysko",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Wratislavia Wrocław",
+          "away": "Zenit Międzybórz",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "MKP Wołów",
+          "away": "Sokół Marcinkowice",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 13,
+      "mecze": [
+        {
+          "home": "Sokół Marcinkowice",
+          "away": "Polonia Trzebnica",
+          "score": {
+            "home": 0,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Zenit Międzybórz",
+          "away": "MKP Wołów",
+          "score": {
+            "home": 1,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Błysk Kuźniczysko",
+          "away": "Wratislavia Wrocław",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Marszowice",
+          "away": "Piast II Żmigród",
+          "score": {
+            "home": 4,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Polonia Bielany Wrocławskie",
+          "away": "KS Łozina",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Rokita 1946 Brzeg Dolny",
+          "away": "Strzelinianka Strzelin",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "WKS Wierzbice",
+          "away": "Piast Żerniki (Wrocław)",
+          "score": {
+            "home": 5,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Piast Lutynia",
+          "away": "Orzeł Pawłowice (Wrocław)",
+          "score": {
+            "home": 5,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 14,
+      "mecze": [
+        {
+          "home": "Polonia Trzebnica",
+          "away": "Orzeł Pawłowice (Wrocław)",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Piast Żerniki (Wrocław)",
+          "away": "Piast Lutynia",
+          "score": {
+            "home": 4,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Strzelinianka Strzelin",
+          "away": "WKS Wierzbice",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "KS Łozina",
+          "away": "Rokita 1946 Brzeg Dolny",
+          "score": {
+            "home": 4,
+            "away": 6
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Piast II Żmigród",
+          "away": "Polonia Bielany Wrocławskie",
+          "score": {
+            "home": 1,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Wratislavia Wrocław",
+          "away": "Orzeł Marszowice",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "MKP Wołów",
+          "away": "Błysk Kuźniczysko",
+          "score": {
+            "home": 4,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Sokół Marcinkowice",
+          "away": "Zenit Międzybórz",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "result": "2",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 15,
+      "mecze": [
+        {
+          "home": "Zenit Międzybórz",
+          "away": "Polonia Trzebnica",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Błysk Kuźniczysko",
+          "away": "Sokół Marcinkowice",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Marszowice",
+          "away": "MKP Wołów",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Polonia Bielany Wrocławskie",
+          "away": "Wratislavia Wrocław",
+          "score": {
+            "home": 6,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Rokita 1946 Brzeg Dolny",
+          "away": "Piast II Żmigród",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "WKS Wierzbice",
+          "away": "KS Łozina",
+          "score": {
+            "home": 9,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Piast Lutynia",
+          "away": "Strzelinianka Strzelin",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Pawłowice (Wrocław)",
+          "away": "Piast Żerniki (Wrocław)",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 16,
+      "mecze": [
+        {
+          "home": "Polonia Trzebnica",
+          "away": "Piast Żerniki (Wrocław)",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Pawłowice (Wrocław)",
+          "away": "Strzelinianka Strzelin",
+          "score": {
+            "home": 4,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Piast Lutynia",
+          "away": "KS Łozina",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "WKS Wierzbice",
+          "away": "Piast II Żmigród",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Rokita 1946 Brzeg Dolny",
+          "away": "Wratislavia Wrocław",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Polonia Bielany Wrocławskie",
+          "away": "MKP Wołów",
+          "score": {
+            "home": 4,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Błysk Kuźniczysko",
+          "away": "Zenit Międzybórz",
+          "score": {
+            "home": 6,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 17,
+      "mecze": [
+        {
+          "home": "Błysk Kuźniczysko",
+          "away": "Polonia Trzebnica",
+          "score": {
+            "home": 0,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Sokół Marcinkowice",
+          "away": "Polonia Bielany Wrocławskie",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "MKP Wołów",
+          "away": "Rokita 1946 Brzeg Dolny",
+          "score": {
+            "home": 3,
+            "away": 3
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Wratislavia Wrocław",
+          "away": "WKS Wierzbice",
+          "score": {
+            "home": 1,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Piast II Żmigród",
+          "away": "Piast Lutynia",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "KS Łozina",
+          "away": "Orzeł Pawłowice (Wrocław)",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Strzelinianka Strzelin",
+          "away": "Piast Żerniki (Wrocław)",
+          "score": {
+            "home": 3,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 18,
+      "mecze": [
+        {
+          "home": "Polonia Trzebnica",
+          "away": "Strzelinianka Strzelin",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Piast Żerniki (Wrocław)",
+          "away": "KS Łozina",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Pawłowice (Wrocław)",
+          "away": "Piast II Żmigród",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Piast Lutynia",
+          "away": "Wratislavia Wrocław",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "WKS Wierzbice",
+          "away": "MKP Wołów",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Rokita 1946 Brzeg Dolny",
+          "away": "Sokół Marcinkowice",
+          "score": {
+            "home": 5,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Polonia Bielany Wrocławskie",
+          "away": "Zenit Międzybórz",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Marszowice",
+          "away": "Błysk Kuźniczysko",
+          "score": {
+            "home": 3,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 19,
+      "mecze": [
+        {
+          "home": "Orzeł Marszowice",
+          "away": "Polonia Trzebnica",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Błysk Kuźniczysko",
+          "away": "Polonia Bielany Wrocławskie",
+          "score": {
+            "home": 0,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Zenit Międzybórz",
+          "away": "Rokita 1946 Brzeg Dolny",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Sokół Marcinkowice",
+          "away": "WKS Wierzbice",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "MKP Wołów",
+          "away": "Piast Lutynia",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Wratislavia Wrocław",
+          "away": "Orzeł Pawłowice (Wrocław)",
+          "score": {
+            "home": 0,
+            "away": 6
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Piast II Żmigród",
+          "away": "Piast Żerniki (Wrocław)",
+          "score": {
+            "home": 4,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "KS Łozina",
+          "away": "Strzelinianka Strzelin",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 20,
+      "mecze": [
+        {
+          "home": "Polonia Trzebnica",
+          "away": "KS Łozina",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Strzelinianka Strzelin",
+          "away": "Piast II Żmigród",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Piast Żerniki (Wrocław)",
+          "away": "Wratislavia Wrocław",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Pawłowice (Wrocław)",
+          "away": "MKP Wołów",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Piast Lutynia",
+          "away": "Sokół Marcinkowice",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "WKS Wierzbice",
+          "away": "Zenit Międzybórz",
+          "score": {
+            "home": 8,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Rokita 1946 Brzeg Dolny",
+          "away": "Błysk Kuźniczysko",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Polonia Bielany Wrocławskie",
+          "away": "Orzeł Marszowice",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 21,
+      "mecze": [
+        {
+          "home": "Polonia Bielany Wrocławskie",
+          "away": "Polonia Trzebnica",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Marszowice",
+          "away": "Rokita 1946 Brzeg Dolny",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Błysk Kuźniczysko",
+          "away": "WKS Wierzbice",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Zenit Międzybórz",
+          "away": "Piast Lutynia",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Sokół Marcinkowice",
+          "away": "Orzeł Pawłowice (Wrocław)",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "MKP Wołów",
+          "away": "Piast Żerniki (Wrocław)",
+          "score": {
+            "home": 4,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Wratislavia Wrocław",
+          "away": "Strzelinianka Strzelin",
+          "score": {
+            "home": 0,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Piast II Żmigród",
+          "away": "KS Łozina",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    }
+  ]
+}

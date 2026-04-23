@@ -1,0 +1,1789 @@
+{
+  "kolejki": [
+    {
+      "nr": 1,
+      "mecze": [
+        {
+          "home": "Lechia Piechowice",
+          "away": "BKS Bobrzanie Bolesławiec",
+          "score": {
+            "home": 0,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "GKS Warta Bolesławiecka",
+          "away": "LZS Kościelnik",
+          "score": {
+            "home": 0,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "GKS Raciborowice",
+          "away": "Gryf Gryfów Śląski",
+          "score": {
+            "home": 10,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Mirsk",
+          "away": "Hutnik Pieńsk",
+          "score": {
+            "home": 3,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Olimpia Kamienna Góra",
+          "away": "Orzeł Mysłakowice",
+          "score": {
+            "home": 2,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "KS Łomnica",
+          "away": "Chrobry Nowogrodziec",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Victoria Jelenia Góra",
+          "away": "Nysa Zgorzelec",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Leśna",
+          "away": "Apis Jędrzychowice",
+          "score": {
+            "home": 4,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 2,
+      "mecze": [
+        {
+          "home": "BKS Bobrzanie Bolesławiec",
+          "away": "Apis Jędrzychowice",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Nysa Zgorzelec",
+          "away": "Włókniarz Leśna",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Chrobry Nowogrodziec",
+          "away": "Victoria Jelenia Góra",
+          "score": {
+            "home": 6,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Mysłakowice",
+          "away": "KS Łomnica",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Hutnik Pieńsk",
+          "away": "Olimpia Kamienna Góra",
+          "score": {
+            "home": 4,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Gryf Gryfów Śląski",
+          "away": "Włókniarz Mirsk",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "LZS Kościelnik",
+          "away": "GKS Raciborowice",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Lechia Piechowice",
+          "away": "GKS Warta Bolesławiecka",
+          "score": {
+            "home": 4,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 3,
+      "mecze": [
+        {
+          "home": "GKS Warta Bolesławiecka",
+          "away": "BKS Bobrzanie Bolesławiec",
+          "score": {
+            "home": 3,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "GKS Raciborowice",
+          "away": "Lechia Piechowice",
+          "score": {
+            "home": 10,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Mirsk",
+          "away": "LZS Kościelnik",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Olimpia Kamienna Góra",
+          "away": "Gryf Gryfów Śląski",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "KS Łomnica",
+          "away": "Hutnik Pieńsk",
+          "score": {
+            "home": 4,
+            "away": 3
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Victoria Jelenia Góra",
+          "away": "Orzeł Mysłakowice",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Leśna",
+          "away": "Chrobry Nowogrodziec",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Apis Jędrzychowice",
+          "away": "Nysa Zgorzelec",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 4,
+      "mecze": [
+        {
+          "home": "BKS Bobrzanie Bolesławiec",
+          "away": "Nysa Zgorzelec",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Chrobry Nowogrodziec",
+          "away": "Apis Jędrzychowice",
+          "score": {
+            "home": 0,
+            "away": 6
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Mysłakowice",
+          "away": "Włókniarz Leśna",
+          "score": {
+            "home": 2,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Hutnik Pieńsk",
+          "away": "Victoria Jelenia Góra",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Gryf Gryfów Śląski",
+          "away": "KS Łomnica",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "LZS Kościelnik",
+          "away": "Olimpia Kamienna Góra",
+          "score": {
+            "home": 4,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Lechia Piechowice",
+          "away": "Włókniarz Mirsk",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "GKS Warta Bolesławiecka",
+          "away": "GKS Raciborowice",
+          "score": {
+            "home": 2,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 5,
+      "mecze": [
+        {
+          "home": "GKS Raciborowice",
+          "away": "BKS Bobrzanie Bolesławiec",
+          "score": {
+            "home": 4,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Mirsk",
+          "away": "GKS Warta Bolesławiecka",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Olimpia Kamienna Góra",
+          "away": "Lechia Piechowice",
+          "score": {
+            "home": 4,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "KS Łomnica",
+          "away": "LZS Kościelnik",
+          "score": {
+            "home": 5,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Victoria Jelenia Góra",
+          "away": "Gryf Gryfów Śląski",
+          "score": {
+            "home": 4,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Leśna",
+          "away": "Hutnik Pieńsk",
+          "score": {
+            "home": 6,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Apis Jędrzychowice",
+          "away": "Orzeł Mysłakowice",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Nysa Zgorzelec",
+          "away": "Chrobry Nowogrodziec",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 6,
+      "mecze": [
+        {
+          "home": "BKS Bobrzanie Bolesławiec",
+          "away": "Chrobry Nowogrodziec",
+          "score": {
+            "home": 0,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Mysłakowice",
+          "away": "Nysa Zgorzelec",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Hutnik Pieńsk",
+          "away": "Apis Jędrzychowice",
+          "score": {
+            "home": 0,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Gryf Gryfów Śląski",
+          "away": "Włókniarz Leśna",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "LZS Kościelnik",
+          "away": "Victoria Jelenia Góra",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Lechia Piechowice",
+          "away": "KS Łomnica",
+          "score": {
+            "home": 0,
+            "away": 9
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "GKS Warta Bolesławiecka",
+          "away": "Olimpia Kamienna Góra",
+          "score": {
+            "home": 1,
+            "away": 6
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "GKS Raciborowice",
+          "away": "Włókniarz Mirsk",
+          "score": {
+            "home": 9,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 7,
+      "mecze": [
+        {
+          "home": "Włókniarz Mirsk",
+          "away": "BKS Bobrzanie Bolesławiec",
+          "score": {
+            "home": 3,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Olimpia Kamienna Góra",
+          "away": "GKS Raciborowice",
+          "score": {
+            "home": 1,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "KS Łomnica",
+          "away": "GKS Warta Bolesławiecka",
+          "score": {
+            "home": 6,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Victoria Jelenia Góra",
+          "away": "Lechia Piechowice",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Leśna",
+          "away": "LZS Kościelnik",
+          "score": {
+            "home": 6,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Apis Jędrzychowice",
+          "away": "Gryf Gryfów Śląski",
+          "score": {
+            "home": 6,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Nysa Zgorzelec",
+          "away": "Hutnik Pieńsk",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Chrobry Nowogrodziec",
+          "away": "Orzeł Mysłakowice",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 8,
+      "mecze": [
+        {
+          "home": "BKS Bobrzanie Bolesławiec",
+          "away": "Orzeł Mysłakowice",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Hutnik Pieńsk",
+          "away": "Chrobry Nowogrodziec",
+          "score": {
+            "home": 2,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Gryf Gryfów Śląski",
+          "away": "Nysa Zgorzelec",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "LZS Kościelnik",
+          "away": "Apis Jędrzychowice",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Lechia Piechowice",
+          "away": "Włókniarz Leśna",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "GKS Warta Bolesławiecka",
+          "away": "Victoria Jelenia Góra",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "GKS Raciborowice",
+          "away": "KS Łomnica",
+          "score": {
+            "home": 9,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Mirsk",
+          "away": "Olimpia Kamienna Góra",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 9,
+      "mecze": [
+        {
+          "home": "Olimpia Kamienna Góra",
+          "away": "BKS Bobrzanie Bolesławiec",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "KS Łomnica",
+          "away": "Włókniarz Mirsk",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Victoria Jelenia Góra",
+          "away": "GKS Raciborowice",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Leśna",
+          "away": "GKS Warta Bolesławiecka",
+          "score": {
+            "home": 8,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Apis Jędrzychowice",
+          "away": "Lechia Piechowice",
+          "score": {
+            "home": 4,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Nysa Zgorzelec",
+          "away": "LZS Kościelnik",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Chrobry Nowogrodziec",
+          "away": "Gryf Gryfów Śląski",
+          "score": {
+            "home": 16,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Mysłakowice",
+          "away": "Hutnik Pieńsk",
+          "score": {
+            "home": 8,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 10,
+      "mecze": [
+        {
+          "home": "BKS Bobrzanie Bolesławiec",
+          "away": "Hutnik Pieńsk",
+          "score": {
+            "home": 11,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Gryf Gryfów Śląski",
+          "away": "Orzeł Mysłakowice",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "LZS Kościelnik",
+          "away": "Chrobry Nowogrodziec",
+          "score": {
+            "home": 0,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Lechia Piechowice",
+          "away": "Nysa Zgorzelec",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "GKS Warta Bolesławiecka",
+          "away": "Apis Jędrzychowice",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "GKS Raciborowice",
+          "away": "Włókniarz Leśna",
+          "score": {
+            "home": 3,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Mirsk",
+          "away": "Victoria Jelenia Góra",
+          "score": {
+            "home": 3,
+            "away": 3
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Olimpia Kamienna Góra",
+          "away": "KS Łomnica",
+          "score": {
+            "home": 3,
+            "away": 3
+          },
+          "result": "X",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 11,
+      "mecze": [
+        {
+          "home": "KS Łomnica",
+          "away": "BKS Bobrzanie Bolesławiec",
+          "score": {
+            "home": 4,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Victoria Jelenia Góra",
+          "away": "Olimpia Kamienna Góra",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Leśna",
+          "away": "Włókniarz Mirsk",
+          "score": {
+            "home": 6,
+            "away": 4
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Apis Jędrzychowice",
+          "away": "GKS Raciborowice",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Nysa Zgorzelec",
+          "away": "GKS Warta Bolesławiecka",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Chrobry Nowogrodziec",
+          "away": "Lechia Piechowice",
+          "score": {
+            "home": 7,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Mysłakowice",
+          "away": "LZS Kościelnik",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Hutnik Pieńsk",
+          "away": "Gryf Gryfów Śląski",
+          "score": {
+            "home": 4,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 12,
+      "mecze": [
+        {
+          "home": "BKS Bobrzanie Bolesławiec",
+          "away": "Gryf Gryfów Śląski",
+          "score": {
+            "home": 10,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "LZS Kościelnik",
+          "away": "Hutnik Pieńsk",
+          "score": {
+            "home": 6,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Lechia Piechowice",
+          "away": "Orzeł Mysłakowice",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "GKS Warta Bolesławiecka",
+          "away": "Chrobry Nowogrodziec",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "GKS Raciborowice",
+          "away": "Nysa Zgorzelec",
+          "score": {
+            "home": 5,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Mirsk",
+          "away": "Apis Jędrzychowice",
+          "score": {
+            "home": 4,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Olimpia Kamienna Góra",
+          "away": "Włókniarz Leśna",
+          "score": {
+            "home": 3,
+            "away": 3
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "KS Łomnica",
+          "away": "Victoria Jelenia Góra",
+          "score": {
+            "home": 3,
+            "away": 3
+          },
+          "result": "X",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 13,
+      "mecze": [
+        {
+          "home": "Victoria Jelenia Góra",
+          "away": "BKS Bobrzanie Bolesławiec",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Leśna",
+          "away": "KS Łomnica",
+          "score": {
+            "home": 3,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Apis Jędrzychowice",
+          "away": "Olimpia Kamienna Góra",
+          "score": {
+            "home": 1,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Nysa Zgorzelec",
+          "away": "Włókniarz Mirsk",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Chrobry Nowogrodziec",
+          "away": "GKS Raciborowice",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Mysłakowice",
+          "away": "GKS Warta Bolesławiecka",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Hutnik Pieńsk",
+          "away": "Lechia Piechowice",
+          "score": {
+            "home": 4,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Gryf Gryfów Śląski",
+          "away": "LZS Kościelnik",
+          "score": {
+            "home": 1,
+            "away": 6
+          },
+          "result": "2",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 14,
+      "mecze": [
+        {
+          "home": "BKS Bobrzanie Bolesławiec",
+          "away": "LZS Kościelnik",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Lechia Piechowice",
+          "away": "Gryf Gryfów Śląski",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "GKS Warta Bolesławiecka",
+          "away": "Hutnik Pieńsk",
+          "score": {
+            "home": 4,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "GKS Raciborowice",
+          "away": "Orzeł Mysłakowice",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Mirsk",
+          "away": "Chrobry Nowogrodziec",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Olimpia Kamienna Góra",
+          "away": "Nysa Zgorzelec",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "KS Łomnica",
+          "away": "Apis Jędrzychowice",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Victoria Jelenia Góra",
+          "away": "Włókniarz Leśna",
+          "score": {
+            "home": 4,
+            "away": 3
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 15,
+      "mecze": [
+        {
+          "home": "Włókniarz Leśna",
+          "away": "BKS Bobrzanie Bolesławiec",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Apis Jędrzychowice",
+          "away": "Victoria Jelenia Góra",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Nysa Zgorzelec",
+          "away": "KS Łomnica",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Chrobry Nowogrodziec",
+          "away": "Olimpia Kamienna Góra",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Mysłakowice",
+          "away": "Włókniarz Mirsk",
+          "score": {
+            "home": 6,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Hutnik Pieńsk",
+          "away": "GKS Raciborowice",
+          "score": {
+            "home": 0,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Gryf Gryfów Śląski",
+          "away": "GKS Warta Bolesławiecka",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "LZS Kościelnik",
+          "away": "Lechia Piechowice",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 16,
+      "mecze": [
+        {
+          "home": "BKS Bobrzanie Bolesławiec",
+          "away": "Lechia Piechowice",
+          "score": {
+            "home": 5,
+            "away": 3
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "LZS Kościelnik",
+          "away": "GKS Warta Bolesławiecka",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Gryf Gryfów Śląski",
+          "away": "GKS Raciborowice",
+          "score": {
+            "home": 0,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Hutnik Pieńsk",
+          "away": "Włókniarz Mirsk",
+          "score": {
+            "home": 2,
+            "away": 6
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Mysłakowice",
+          "away": "Olimpia Kamienna Góra",
+          "score": {
+            "home": 0,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Chrobry Nowogrodziec",
+          "away": "KS Łomnica",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Nysa Zgorzelec",
+          "away": "Victoria Jelenia Góra",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Apis Jędrzychowice",
+          "away": "Włókniarz Leśna",
+          "score": {
+            "home": 4,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 17,
+      "mecze": [
+        {
+          "home": "Apis Jędrzychowice",
+          "away": "BKS Bobrzanie Bolesławiec",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Leśna",
+          "away": "Nysa Zgorzelec",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Victoria Jelenia Góra",
+          "away": "Chrobry Nowogrodziec",
+          "score": {
+            "home": 4,
+            "away": 4
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "KS Łomnica",
+          "away": "Orzeł Mysłakowice",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Olimpia Kamienna Góra",
+          "away": "Hutnik Pieńsk",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Mirsk",
+          "away": "Gryf Gryfów Śląski",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "GKS Raciborowice",
+          "away": "LZS Kościelnik",
+          "score": {
+            "home": 8,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "GKS Warta Bolesławiecka",
+          "away": "Lechia Piechowice",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 18,
+      "mecze": [
+        {
+          "home": "BKS Bobrzanie Bolesławiec",
+          "away": "GKS Warta Bolesławiecka",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Lechia Piechowice",
+          "away": "GKS Raciborowice",
+          "score": {
+            "home": 1,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "LZS Kościelnik",
+          "away": "Włókniarz Mirsk",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Gryf Gryfów Śląski",
+          "away": "Olimpia Kamienna Góra",
+          "score": {
+            "home": 1,
+            "away": 8
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Hutnik Pieńsk",
+          "away": "KS Łomnica",
+          "score": {
+            "home": 1,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Mysłakowice",
+          "away": "Victoria Jelenia Góra",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Chrobry Nowogrodziec",
+          "away": "Włókniarz Leśna",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Nysa Zgorzelec",
+          "away": "Apis Jędrzychowice",
+          "score": {
+            "home": 1,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 19,
+      "mecze": [
+        {
+          "home": "Nysa Zgorzelec",
+          "away": "BKS Bobrzanie Bolesławiec",
+          "score": {
+            "home": 4,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Apis Jędrzychowice",
+          "away": "Chrobry Nowogrodziec",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Leśna",
+          "away": "Orzeł Mysłakowice",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Victoria Jelenia Góra",
+          "away": "Hutnik Pieńsk",
+          "score": {
+            "home": 6,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "KS Łomnica",
+          "away": "Gryf Gryfów Śląski",
+          "score": {
+            "home": 5,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Olimpia Kamienna Góra",
+          "away": "LZS Kościelnik",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Mirsk",
+          "away": "Lechia Piechowice",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "GKS Raciborowice",
+          "away": "GKS Warta Bolesławiecka",
+          "score": {
+            "home": 7,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 20,
+      "mecze": [
+        {
+          "home": "BKS Bobrzanie Bolesławiec",
+          "away": "GKS Raciborowice",
+          "score": {
+            "home": 1,
+            "away": 6
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "GKS Warta Bolesławiecka",
+          "away": "Włókniarz Mirsk",
+          "score": {
+            "home": 1,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Lechia Piechowice",
+          "away": "Olimpia Kamienna Góra",
+          "score": {
+            "home": 0,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "LZS Kościelnik",
+          "away": "KS Łomnica",
+          "score": {
+            "home": 0,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Gryf Gryfów Śląski",
+          "away": "Victoria Jelenia Góra",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Hutnik Pieńsk",
+          "away": "Włókniarz Leśna",
+          "score": {
+            "home": 3,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Orzeł Mysłakowice",
+          "away": "Apis Jędrzychowice",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Chrobry Nowogrodziec",
+          "away": "Nysa Zgorzelec",
+          "score": {
+            "home": 6,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 21,
+      "mecze": [
+        {
+          "home": "Chrobry Nowogrodziec",
+          "away": "BKS Bobrzanie Bolesławiec",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Nysa Zgorzelec",
+          "away": "Orzeł Mysłakowice",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Apis Jędrzychowice",
+          "away": "Hutnik Pieńsk",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Leśna",
+          "away": "Gryf Gryfów Śląski",
+          "score": {
+            "home": 6,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Victoria Jelenia Góra",
+          "away": "LZS Kościelnik",
+          "score": {
+            "home": 3,
+            "away": 3
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "KS Łomnica",
+          "away": "Lechia Piechowice",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Olimpia Kamienna Góra",
+          "away": "GKS Warta Bolesławiecka",
+          "score": {
+            "home": 5,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Mirsk",
+          "away": "GKS Raciborowice",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        }
+      ]
+    }
+  ]
+}

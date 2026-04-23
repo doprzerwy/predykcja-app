@@ -1,0 +1,1789 @@
+{
+  "kolejki": [
+    {
+      "nr": 1,
+      "mecze": [
+        {
+          "home": "Stal Chocianów",
+          "away": "Sparta Grębocice",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "GKS Męcinka",
+          "away": "Chojnowianka Chojnów",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Sokół Jerzmanowa",
+          "away": "Odra Ścinawa",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Sparta Rudna",
+          "away": "Iskra Kochlice",
+          "score": {
+            "home": 0,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Zryw Kłębanowice",
+          "away": "Konfeks Legnica",
+          "score": {
+            "home": 5,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Kaczawa Bieniowice",
+          "away": "Błękitni Koskowice",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Pogoń Góra",
+          "away": "LZS Komorniki (k. Polkowic)",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Górnik II Złotoryja",
+          "away": "Jaworzanka 1946 Jawor",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 2,
+      "mecze": [
+        {
+          "home": "Sparta Grębocice",
+          "away": "Jaworzanka 1946 Jawor",
+          "score": {
+            "home": 3,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "LZS Komorniki (k. Polkowic)",
+          "away": "Górnik II Złotoryja",
+          "score": {
+            "home": 2,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Błękitni Koskowice",
+          "away": "Pogoń Góra",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Konfeks Legnica",
+          "away": "Kaczawa Bieniowice",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Iskra Kochlice",
+          "away": "Zryw Kłębanowice",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Odra Ścinawa",
+          "away": "Sparta Rudna",
+          "score": {
+            "home": 11,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Chojnowianka Chojnów",
+          "away": "Sokół Jerzmanowa",
+          "score": {
+            "home": 4,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Stal Chocianów",
+          "away": "GKS Męcinka",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 3,
+      "mecze": [
+        {
+          "home": "GKS Męcinka",
+          "away": "Sparta Grębocice",
+          "score": {
+            "home": 2,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Sokół Jerzmanowa",
+          "away": "Stal Chocianów",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Sparta Rudna",
+          "away": "Chojnowianka Chojnów",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Zryw Kłębanowice",
+          "away": "Odra Ścinawa",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Kaczawa Bieniowice",
+          "away": "Iskra Kochlice",
+          "score": {
+            "home": 2,
+            "away": 7
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Pogoń Góra",
+          "away": "Konfeks Legnica",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Górnik II Złotoryja",
+          "away": "Błękitni Koskowice",
+          "score": {
+            "home": 3,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Jaworzanka 1946 Jawor",
+          "away": "LZS Komorniki (k. Polkowic)",
+          "score": {
+            "home": 5,
+            "away": 3
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 4,
+      "mecze": [
+        {
+          "home": "Sparta Grębocice",
+          "away": "LZS Komorniki (k. Polkowic)",
+          "score": {
+            "home": 7,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Błękitni Koskowice",
+          "away": "Jaworzanka 1946 Jawor",
+          "score": {
+            "home": 2,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Konfeks Legnica",
+          "away": "Górnik II Złotoryja",
+          "score": {
+            "home": 3,
+            "away": 3
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Iskra Kochlice",
+          "away": "Pogoń Góra",
+          "score": {
+            "home": 4,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Odra Ścinawa",
+          "away": "Kaczawa Bieniowice",
+          "score": {
+            "home": 11,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Chojnowianka Chojnów",
+          "away": "Zryw Kłębanowice",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Stal Chocianów",
+          "away": "Sparta Rudna",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "GKS Męcinka",
+          "away": "Sokół Jerzmanowa",
+          "score": {
+            "home": 3,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 5,
+      "mecze": [
+        {
+          "home": "Sokół Jerzmanowa",
+          "away": "Sparta Grębocice",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Sparta Rudna",
+          "away": "GKS Męcinka",
+          "score": {
+            "home": 4,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Zryw Kłębanowice",
+          "away": "Stal Chocianów",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Kaczawa Bieniowice",
+          "away": "Chojnowianka Chojnów",
+          "score": {
+            "home": 0,
+            "away": 6
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Pogoń Góra",
+          "away": "Odra Ścinawa",
+          "score": {
+            "home": 0,
+            "away": 8
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Górnik II Złotoryja",
+          "away": "Iskra Kochlice",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Jaworzanka 1946 Jawor",
+          "away": "Konfeks Legnica",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "LZS Komorniki (k. Polkowic)",
+          "away": "Błękitni Koskowice",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 6,
+      "mecze": [
+        {
+          "home": "Sparta Grębocice",
+          "away": "Błękitni Koskowice",
+          "score": {
+            "home": 6,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Konfeks Legnica",
+          "away": "LZS Komorniki (k. Polkowic)",
+          "score": {
+            "home": 0,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Iskra Kochlice",
+          "away": "Jaworzanka 1946 Jawor",
+          "score": {
+            "home": 3,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Odra Ścinawa",
+          "away": "Górnik II Złotoryja",
+          "score": {
+            "home": 8,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Chojnowianka Chojnów",
+          "away": "Pogoń Góra",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Stal Chocianów",
+          "away": "Kaczawa Bieniowice",
+          "score": {
+            "home": 5,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "GKS Męcinka",
+          "away": "Zryw Kłębanowice",
+          "score": {
+            "home": 4,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Sokół Jerzmanowa",
+          "away": "Sparta Rudna",
+          "score": {
+            "home": 9,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 7,
+      "mecze": [
+        {
+          "home": "Sparta Rudna",
+          "away": "Sparta Grębocice",
+          "score": {
+            "home": 2,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Zryw Kłębanowice",
+          "away": "Sokół Jerzmanowa",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Kaczawa Bieniowice",
+          "away": "GKS Męcinka",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Pogoń Góra",
+          "away": "Stal Chocianów",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Górnik II Złotoryja",
+          "away": "Chojnowianka Chojnów",
+          "score": {
+            "home": 1,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Jaworzanka 1946 Jawor",
+          "away": "Odra Ścinawa",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "LZS Komorniki (k. Polkowic)",
+          "away": "Iskra Kochlice",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Błękitni Koskowice",
+          "away": "Konfeks Legnica",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 8,
+      "mecze": [
+        {
+          "home": "Sparta Grębocice",
+          "away": "Konfeks Legnica",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Iskra Kochlice",
+          "away": "Błękitni Koskowice",
+          "score": {
+            "home": 4,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Odra Ścinawa",
+          "away": "LZS Komorniki (k. Polkowic)",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Chojnowianka Chojnów",
+          "away": "Jaworzanka 1946 Jawor",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Stal Chocianów",
+          "away": "Górnik II Złotoryja",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "GKS Męcinka",
+          "away": "Pogoń Góra",
+          "score": {
+            "home": 3,
+            "away": 3
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Sokół Jerzmanowa",
+          "away": "Kaczawa Bieniowice",
+          "score": {
+            "home": 3,
+            "away": 3
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Sparta Rudna",
+          "away": "Zryw Kłębanowice",
+          "score": {
+            "home": 6,
+            "away": 3
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 9,
+      "mecze": [
+        {
+          "home": "Zryw Kłębanowice",
+          "away": "Sparta Grębocice",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Kaczawa Bieniowice",
+          "away": "Sparta Rudna",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Pogoń Góra",
+          "away": "Sokół Jerzmanowa",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Górnik II Złotoryja",
+          "away": "GKS Męcinka",
+          "score": {
+            "home": 8,
+            "away": 3
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Jaworzanka 1946 Jawor",
+          "away": "Stal Chocianów",
+          "score": {
+            "home": 4,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "LZS Komorniki (k. Polkowic)",
+          "away": "Chojnowianka Chojnów",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Błękitni Koskowice",
+          "away": "Odra Ścinawa",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Konfeks Legnica",
+          "away": "Iskra Kochlice",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "result": "2",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 10,
+      "mecze": [
+        {
+          "home": "Sparta Grębocice",
+          "away": "Iskra Kochlice",
+          "score": {
+            "home": 2,
+            "away": 7
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Odra Ścinawa",
+          "away": "Konfeks Legnica",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Chojnowianka Chojnów",
+          "away": "Błękitni Koskowice",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Stal Chocianów",
+          "away": "LZS Komorniki (k. Polkowic)",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "GKS Męcinka",
+          "away": "Jaworzanka 1946 Jawor",
+          "score": {
+            "home": 2,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Sokół Jerzmanowa",
+          "away": "Górnik II Złotoryja",
+          "score": {
+            "home": 3,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Sparta Rudna",
+          "away": "Pogoń Góra",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Zryw Kłębanowice",
+          "away": "Kaczawa Bieniowice",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 11,
+      "mecze": [
+        {
+          "home": "Kaczawa Bieniowice",
+          "away": "Sparta Grębocice",
+          "score": {
+            "home": 3,
+            "away": 6
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Pogoń Góra",
+          "away": "Zryw Kłębanowice",
+          "score": {
+            "home": 4,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Górnik II Złotoryja",
+          "away": "Sparta Rudna",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Jaworzanka 1946 Jawor",
+          "away": "Sokół Jerzmanowa",
+          "score": {
+            "home": 7,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "LZS Komorniki (k. Polkowic)",
+          "away": "GKS Męcinka",
+          "score": {
+            "home": 2,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Błękitni Koskowice",
+          "away": "Stal Chocianów",
+          "score": {
+            "home": 1,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Konfeks Legnica",
+          "away": "Chojnowianka Chojnów",
+          "score": {
+            "home": 4,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Iskra Kochlice",
+          "away": "Odra Ścinawa",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 12,
+      "mecze": [
+        {
+          "home": "Sparta Grębocice",
+          "away": "Odra Ścinawa",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Chojnowianka Chojnów",
+          "away": "Iskra Kochlice",
+          "score": {
+            "home": 0,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Stal Chocianów",
+          "away": "Konfeks Legnica",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "GKS Męcinka",
+          "away": "Błękitni Koskowice",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Sokół Jerzmanowa",
+          "away": "LZS Komorniki (k. Polkowic)",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Sparta Rudna",
+          "away": "Jaworzanka 1946 Jawor",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Zryw Kłębanowice",
+          "away": "Górnik II Złotoryja",
+          "score": {
+            "home": 4,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Kaczawa Bieniowice",
+          "away": "Pogoń Góra",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 13,
+      "mecze": [
+        {
+          "home": "Pogoń Góra",
+          "away": "Sparta Grębocice",
+          "score": {
+            "home": 2,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Górnik II Złotoryja",
+          "away": "Kaczawa Bieniowice",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Jaworzanka 1946 Jawor",
+          "away": "Zryw Kłębanowice",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "LZS Komorniki (k. Polkowic)",
+          "away": "Sparta Rudna",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Błękitni Koskowice",
+          "away": "Sokół Jerzmanowa",
+          "score": {
+            "home": 3,
+            "away": 3
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Konfeks Legnica",
+          "away": "GKS Męcinka",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Iskra Kochlice",
+          "away": "Stal Chocianów",
+          "score": {
+            "home": 4,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Odra Ścinawa",
+          "away": "Chojnowianka Chojnów",
+          "score": {
+            "home": 5,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 14,
+      "mecze": [
+        {
+          "home": "Sparta Grębocice",
+          "away": "Chojnowianka Chojnów",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Stal Chocianów",
+          "away": "Odra Ścinawa",
+          "score": {
+            "home": 0,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "GKS Męcinka",
+          "away": "Iskra Kochlice",
+          "score": {
+            "home": 0,
+            "away": 8
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Sokół Jerzmanowa",
+          "away": "Konfeks Legnica",
+          "score": {
+            "home": 2,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Sparta Rudna",
+          "away": "Błękitni Koskowice",
+          "score": {
+            "home": 3,
+            "away": 3
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Zryw Kłębanowice",
+          "away": "LZS Komorniki (k. Polkowic)",
+          "score": {
+            "home": 5,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Kaczawa Bieniowice",
+          "away": "Jaworzanka 1946 Jawor",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Pogoń Góra",
+          "away": "Górnik II Złotoryja",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 15,
+      "mecze": [
+        {
+          "home": "Górnik II Złotoryja",
+          "away": "Sparta Grębocice",
+          "score": {
+            "home": 5,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Jaworzanka 1946 Jawor",
+          "away": "Pogoń Góra",
+          "score": {
+            "home": 6,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "LZS Komorniki (k. Polkowic)",
+          "away": "Kaczawa Bieniowice",
+          "score": {
+            "home": 2,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Błękitni Koskowice",
+          "away": "Zryw Kłębanowice",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Konfeks Legnica",
+          "away": "Sparta Rudna",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Iskra Kochlice",
+          "away": "Sokół Jerzmanowa",
+          "score": {
+            "home": 11,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Odra Ścinawa",
+          "away": "GKS Męcinka",
+          "score": {
+            "home": 3,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Chojnowianka Chojnów",
+          "away": "Stal Chocianów",
+          "score": {
+            "home": 7,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 16,
+      "mecze": [
+        {
+          "home": "Sparta Grębocice",
+          "away": "Stal Chocianów",
+          "score": {
+            "home": 3,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Chojnowianka Chojnów",
+          "away": "GKS Męcinka",
+          "score": {
+            "home": 5,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Odra Ścinawa",
+          "away": "Sokół Jerzmanowa",
+          "score": {
+            "home": 6,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Iskra Kochlice",
+          "away": "Sparta Rudna",
+          "score": {
+            "home": 9,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Konfeks Legnica",
+          "away": "Zryw Kłębanowice",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Błękitni Koskowice",
+          "away": "Kaczawa Bieniowice",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "LZS Komorniki (k. Polkowic)",
+          "away": "Pogoń Góra",
+          "score": {
+            "home": 3,
+            "away": 3
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Jaworzanka 1946 Jawor",
+          "away": "Górnik II Złotoryja",
+          "score": {
+            "home": 8,
+            "away": 3
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 17,
+      "mecze": [
+        {
+          "home": "Jaworzanka 1946 Jawor",
+          "away": "Sparta Grębocice",
+          "score": {
+            "home": 6,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Górnik II Złotoryja",
+          "away": "LZS Komorniki (k. Polkowic)",
+          "score": {
+            "home": 3,
+            "away": 6
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Pogoń Góra",
+          "away": "Błękitni Koskowice",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Kaczawa Bieniowice",
+          "away": "Konfeks Legnica",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Zryw Kłębanowice",
+          "away": "Iskra Kochlice",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Sparta Rudna",
+          "away": "Odra Ścinawa",
+          "score": {
+            "home": 2,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Sokół Jerzmanowa",
+          "away": "Chojnowianka Chojnów",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "GKS Męcinka",
+          "away": "Stal Chocianów",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 18,
+      "mecze": [
+        {
+          "home": "Sparta Grębocice",
+          "away": "GKS Męcinka",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Stal Chocianów",
+          "away": "Sokół Jerzmanowa",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Chojnowianka Chojnów",
+          "away": "Sparta Rudna",
+          "score": {
+            "home": 4,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Odra Ścinawa",
+          "away": "Zryw Kłębanowice",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Iskra Kochlice",
+          "away": "Kaczawa Bieniowice",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Konfeks Legnica",
+          "away": "Pogoń Góra",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Błękitni Koskowice",
+          "away": "Górnik II Złotoryja",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "LZS Komorniki (k. Polkowic)",
+          "away": "Jaworzanka 1946 Jawor",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 19,
+      "mecze": [
+        {
+          "home": "LZS Komorniki (k. Polkowic)",
+          "away": "Sparta Grębocice",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Jaworzanka 1946 Jawor",
+          "away": "Błękitni Koskowice",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Górnik II Złotoryja",
+          "away": "Konfeks Legnica",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Pogoń Góra",
+          "away": "Iskra Kochlice",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Kaczawa Bieniowice",
+          "away": "Odra Ścinawa",
+          "score": {
+            "home": 1,
+            "away": 8
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Zryw Kłębanowice",
+          "away": "Chojnowianka Chojnów",
+          "score": {
+            "home": 3,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Sparta Rudna",
+          "away": "Stal Chocianów",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Sokół Jerzmanowa",
+          "away": "GKS Męcinka",
+          "score": {
+            "home": 7,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 20,
+      "mecze": [
+        {
+          "home": "Sparta Grębocice",
+          "away": "Sokół Jerzmanowa",
+          "score": {
+            "home": 3,
+            "away": 3
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "GKS Męcinka",
+          "away": "Sparta Rudna",
+          "score": {
+            "home": 5,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Stal Chocianów",
+          "away": "Zryw Kłębanowice",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Chojnowianka Chojnów",
+          "away": "Kaczawa Bieniowice",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Odra Ścinawa",
+          "away": "Pogoń Góra",
+          "score": {
+            "home": 5,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Iskra Kochlice",
+          "away": "Górnik II Złotoryja",
+          "score": {
+            "home": 4,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Konfeks Legnica",
+          "away": "Jaworzanka 1946 Jawor",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Błękitni Koskowice",
+          "away": "LZS Komorniki (k. Polkowic)",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 21,
+      "mecze": [
+        {
+          "home": "Błękitni Koskowice",
+          "away": "Sparta Grębocice",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "LZS Komorniki (k. Polkowic)",
+          "away": "Konfeks Legnica",
+          "score": {
+            "home": 3,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Jaworzanka 1946 Jawor",
+          "away": "Iskra Kochlice",
+          "score": {
+            "home": 1,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Górnik II Złotoryja",
+          "away": "Odra Ścinawa",
+          "score": {
+            "home": 1,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Pogoń Góra",
+          "away": "Chojnowianka Chojnów",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Kaczawa Bieniowice",
+          "away": "Stal Chocianów",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Zryw Kłębanowice",
+          "away": "GKS Męcinka",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Sparta Rudna",
+          "away": "Sokół Jerzmanowa",
+          "score": {
+            "home": 4,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    }
+  ]
+}

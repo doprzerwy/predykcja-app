@@ -1,0 +1,1779 @@
+{
+  "kolejki": [
+    {
+      "nr": 1,
+      "mecze": [
+        {
+          "home": "Kryształ Stronie Śląskie",
+          "away": "Górnik Nowe Miasto Wałbrzych",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "MLKS Radków",
+          "away": "Włókniarz Głuszyca",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Skałki Stolec",
+          "away": "Zamek Kamieniec Ząbkowicki",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Delta Słupice",
+          "away": "Zdrój Jedlina Zdrój",
+          "score": {
+            "home": 3,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Pogoń Pieszyce",
+          "away": "Cukrownik/Polonia Pszenno",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Szczyt Boguszów-Gorce",
+          "away": "Polonia-Stal Świdnica",
+          "score": {
+            "home": 0,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Lechia II Dzierżoniów",
+          "away": "LKS Bystrzyca Górna",
+          "score": {
+            "home": 3,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Bielawianka Bielawa",
+          "away": "Zjednoczeni Żarów",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 2,
+      "mecze": [
+        {
+          "home": "Górnik Nowe Miasto Wałbrzych",
+          "away": "Zjednoczeni Żarów",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "LKS Bystrzyca Górna",
+          "away": "Bielawianka Bielawa",
+          "score": {
+            "home": 0,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Polonia-Stal Świdnica",
+          "away": "Lechia II Dzierżoniów",
+          "score": {
+            "home": 6,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Cukrownik/Polonia Pszenno",
+          "away": "Szczyt Boguszów-Gorce",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Zdrój Jedlina Zdrój",
+          "away": "Pogoń Pieszyce",
+          "score": {
+            "home": 6,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Zamek Kamieniec Ząbkowicki",
+          "away": "Delta Słupice",
+          "score": {
+            "home": 5,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Głuszyca",
+          "away": "Skałki Stolec",
+          "score": {
+            "home": 4,
+            "away": 4
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Kryształ Stronie Śląskie",
+          "away": "MLKS Radków",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 3,
+      "mecze": [
+        {
+          "home": "MLKS Radków",
+          "away": "Górnik Nowe Miasto Wałbrzych",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Skałki Stolec",
+          "away": "Kryształ Stronie Śląskie",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Delta Słupice",
+          "away": "Włókniarz Głuszyca",
+          "score": {
+            "home": 3,
+            "away": 3
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Pogoń Pieszyce",
+          "away": "Zamek Kamieniec Ząbkowicki",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Szczyt Boguszów-Gorce",
+          "away": "Zdrój Jedlina Zdrój",
+          "score": {
+            "home": 2,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Lechia II Dzierżoniów",
+          "away": "Cukrownik/Polonia Pszenno",
+          "score": {
+            "home": 5,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Bielawianka Bielawa",
+          "away": "Polonia-Stal Świdnica",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Zjednoczeni Żarów",
+          "away": "LKS Bystrzyca Górna",
+          "score": {
+            "home": 3,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 4,
+      "mecze": [
+        {
+          "home": "Górnik Nowe Miasto Wałbrzych",
+          "away": "LKS Bystrzyca Górna",
+          "score": {
+            "home": 4,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Polonia-Stal Świdnica",
+          "away": "Zjednoczeni Żarów",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Zdrój Jedlina Zdrój",
+          "away": "Lechia II Dzierżoniów",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Zamek Kamieniec Ząbkowicki",
+          "away": "Szczyt Boguszów-Gorce",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Głuszyca",
+          "away": "Pogoń Pieszyce",
+          "score": {
+            "home": 3,
+            "away": 3
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Kryształ Stronie Śląskie",
+          "away": "Delta Słupice",
+          "score": {
+            "home": 5,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "MLKS Radków",
+          "away": "Skałki Stolec",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Bielawianka Bielawa",
+          "away": "Cukrownik/Polonia Pszenno",
+          "score": {
+            "home": 7,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 5,
+      "mecze": [
+        {
+          "home": "Skałki Stolec",
+          "away": "Górnik Nowe Miasto Wałbrzych",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Delta Słupice",
+          "away": "MLKS Radków",
+          "score": {
+            "home": 4,
+            "away": 3
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Pogoń Pieszyce",
+          "away": "Kryształ Stronie Śląskie",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Szczyt Boguszów-Gorce",
+          "away": "Włókniarz Głuszyca",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Lechia II Dzierżoniów",
+          "away": "Zamek Kamieniec Ząbkowicki",
+          "score": {
+            "home": 5,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Bielawianka Bielawa",
+          "away": "Zdrój Jedlina Zdrój",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Zjednoczeni Żarów",
+          "away": "Cukrownik/Polonia Pszenno",
+          "score": {
+            "home": 5,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "LKS Bystrzyca Górna",
+          "away": "Polonia-Stal Świdnica",
+          "score": {
+            "home": 3,
+            "away": 3
+          },
+          "result": "X",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 6,
+      "mecze": [
+        {
+          "home": "Górnik Nowe Miasto Wałbrzych",
+          "away": "Polonia-Stal Świdnica",
+          "score": {
+            "home": 1,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Cukrownik/Polonia Pszenno",
+          "away": "LKS Bystrzyca Górna",
+          "score": {
+            "home": 0,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Zdrój Jedlina Zdrój",
+          "away": "Zjednoczeni Żarów",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Zamek Kamieniec Ząbkowicki",
+          "away": "Bielawianka Bielawa",
+          "score": {
+            "home": 3,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Głuszyca",
+          "away": "Lechia II Dzierżoniów",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Kryształ Stronie Śląskie",
+          "away": "Szczyt Boguszów-Gorce",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "MLKS Radków",
+          "away": "Pogoń Pieszyce",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Skałki Stolec",
+          "away": "Delta Słupice",
+          "score": {
+            "home": 5,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 7,
+      "mecze": [
+        {
+          "home": "Delta Słupice",
+          "away": "Górnik Nowe Miasto Wałbrzych",
+          "score": {
+            "home": 4,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Pogoń Pieszyce",
+          "away": "Skałki Stolec",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Szczyt Boguszów-Gorce",
+          "away": "MLKS Radków",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Lechia II Dzierżoniów",
+          "away": "Kryształ Stronie Śląskie",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Bielawianka Bielawa",
+          "away": "Włókniarz Głuszyca",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Zjednoczeni Żarów",
+          "away": "Zamek Kamieniec Ząbkowicki",
+          "score": {
+            "home": 1,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "LKS Bystrzyca Górna",
+          "away": "Zdrój Jedlina Zdrój",
+          "score": {
+            "home": 3,
+            "away": 3
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Polonia-Stal Świdnica",
+          "away": "Cukrownik/Polonia Pszenno",
+          "score": {
+            "home": 4,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 8,
+      "mecze": [
+        {
+          "home": "Górnik Nowe Miasto Wałbrzych",
+          "away": "Cukrownik/Polonia Pszenno",
+          "score": {
+            "home": 0,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Zdrój Jedlina Zdrój",
+          "away": "Polonia-Stal Świdnica",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Zamek Kamieniec Ząbkowicki",
+          "away": "LKS Bystrzyca Górna",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Głuszyca",
+          "away": "Zjednoczeni Żarów",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Kryształ Stronie Śląskie",
+          "away": "Bielawianka Bielawa",
+          "score": {
+            "home": 0,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "MLKS Radków",
+          "away": "Lechia II Dzierżoniów",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Skałki Stolec",
+          "away": "Szczyt Boguszów-Gorce",
+          "score": {
+            "home": 5,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Delta Słupice",
+          "away": "Pogoń Pieszyce",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 9,
+      "mecze": [
+        {
+          "home": "Pogoń Pieszyce",
+          "away": "Górnik Nowe Miasto Wałbrzych",
+          "score": {
+            "home": 2,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Szczyt Boguszów-Gorce",
+          "away": "Delta Słupice",
+          "score": {
+            "home": 6,
+            "away": 3
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Lechia II Dzierżoniów",
+          "away": "Skałki Stolec",
+          "score": {
+            "home": 6,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Bielawianka Bielawa",
+          "away": "MLKS Radków",
+          "score": {
+            "home": 6,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Zjednoczeni Żarów",
+          "away": "Kryształ Stronie Śląskie",
+          "score": {
+            "home": 5,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "LKS Bystrzyca Górna",
+          "away": "Włókniarz Głuszyca",
+          "score": {
+            "home": 4,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Polonia-Stal Świdnica",
+          "away": "Zamek Kamieniec Ząbkowicki",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Cukrownik/Polonia Pszenno",
+          "away": "Zdrój Jedlina Zdrój",
+          "score": {
+            "home": 3,
+            "away": 6
+          },
+          "result": "2",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 10,
+      "mecze": [
+        {
+          "home": "Górnik Nowe Miasto Wałbrzych",
+          "away": "Zdrój Jedlina Zdrój",
+          "score": {
+            "home": 3,
+            "away": 6
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Zamek Kamieniec Ząbkowicki",
+          "away": "Cukrownik/Polonia Pszenno",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Głuszyca",
+          "away": "Polonia-Stal Świdnica",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Kryształ Stronie Śląskie",
+          "away": "LKS Bystrzyca Górna",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "MLKS Radków",
+          "away": "Zjednoczeni Żarów",
+          "score": {
+            "home": 2,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Skałki Stolec",
+          "away": "Bielawianka Bielawa",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Delta Słupice",
+          "away": "Lechia II Dzierżoniów",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Pogoń Pieszyce",
+          "away": "Szczyt Boguszów-Gorce",
+          "score": {
+            "home": 4,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 11,
+      "mecze": [
+        {
+          "home": "Szczyt Boguszów-Gorce",
+          "away": "Górnik Nowe Miasto Wałbrzych",
+          "score": {
+            "home": 3,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Lechia II Dzierżoniów",
+          "away": "Pogoń Pieszyce",
+          "score": {
+            "home": 8,
+            "away": 3
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Bielawianka Bielawa",
+          "away": "Delta Słupice",
+          "score": {
+            "home": 6,
+            "away": 4
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Zjednoczeni Żarów",
+          "away": "Skałki Stolec",
+          "score": {
+            "home": 4,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "LKS Bystrzyca Górna",
+          "away": "MLKS Radków",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Polonia-Stal Świdnica",
+          "away": "Kryształ Stronie Śląskie",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Cukrownik/Polonia Pszenno",
+          "away": "Włókniarz Głuszyca",
+          "score": {
+            "home": 1,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Zdrój Jedlina Zdrój",
+          "away": "Zamek Kamieniec Ząbkowicki",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 12,
+      "mecze": [
+        {
+          "home": "Górnik Nowe Miasto Wałbrzych",
+          "away": "Zamek Kamieniec Ząbkowicki",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Głuszyca",
+          "away": "Zdrój Jedlina Zdrój",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Kryształ Stronie Śląskie",
+          "away": "Cukrownik/Polonia Pszenno",
+          "score": {
+            "home": 4,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Skałki Stolec",
+          "away": "LKS Bystrzyca Górna",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Delta Słupice",
+          "away": "Zjednoczeni Żarów",
+          "score": {
+            "home": 4,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Pogoń Pieszyce",
+          "away": "Bielawianka Bielawa",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Szczyt Boguszów-Gorce",
+          "away": "Lechia II Dzierżoniów",
+          "score": {
+            "home": 1,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Polonia-Stal Świdnica",
+          "away": "MLKS Radków",
+          "score": {
+            "home": 7,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 13,
+      "mecze": [
+        {
+          "home": "Lechia II Dzierżoniów",
+          "away": "Górnik Nowe Miasto Wałbrzych",
+          "score": {
+            "home": 5,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Bielawianka Bielawa",
+          "away": "Szczyt Boguszów-Gorce",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Zjednoczeni Żarów",
+          "away": "Pogoń Pieszyce",
+          "score": {
+            "home": 6,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "LKS Bystrzyca Górna",
+          "away": "Delta Słupice",
+          "score": {
+            "home": 4,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Polonia-Stal Świdnica",
+          "away": "Skałki Stolec",
+          "score": {
+            "home": 8,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Cukrownik/Polonia Pszenno",
+          "away": "MLKS Radków",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Zdrój Jedlina Zdrój",
+          "away": "Kryształ Stronie Śląskie",
+          "score": {
+            "home": 3,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Zamek Kamieniec Ząbkowicki",
+          "away": "Włókniarz Głuszyca",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 14,
+      "mecze": [
+        {
+          "home": "Górnik Nowe Miasto Wałbrzych",
+          "away": "Włókniarz Głuszyca",
+          "score": {
+            "home": 0,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Kryształ Stronie Śląskie",
+          "away": "Zamek Kamieniec Ząbkowicki",
+          "score": {
+            "home": 1,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "MLKS Radków",
+          "away": "Zdrój Jedlina Zdrój",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Skałki Stolec",
+          "away": "Cukrownik/Polonia Pszenno",
+          "score": {
+            "home": 4,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Delta Słupice",
+          "away": "Polonia-Stal Świdnica",
+          "score": {
+            "home": 0,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Pogoń Pieszyce",
+          "away": "LKS Bystrzyca Górna",
+          "score": {
+            "home": 0,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Szczyt Boguszów-Gorce",
+          "away": "Zjednoczeni Żarów",
+          "score": {
+            "home": 3,
+            "away": 3
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Lechia II Dzierżoniów",
+          "away": "Bielawianka Bielawa",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 15,
+      "mecze": [
+        {
+          "home": "Bielawianka Bielawa",
+          "away": "Górnik Nowe Miasto Wałbrzych",
+          "score": {
+            "home": 6,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Zjednoczeni Żarów",
+          "away": "Lechia II Dzierżoniów",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "LKS Bystrzyca Górna",
+          "away": "Szczyt Boguszów-Gorce",
+          "score": {
+            "home": 3,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Polonia-Stal Świdnica",
+          "away": "Pogoń Pieszyce",
+          "score": {
+            "home": 5,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Cukrownik/Polonia Pszenno",
+          "away": "Delta Słupice",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Zdrój Jedlina Zdrój",
+          "away": "Skałki Stolec",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Zamek Kamieniec Ząbkowicki",
+          "away": "MLKS Radków",
+          "score": {
+            "home": 5,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Głuszyca",
+          "away": "Kryształ Stronie Śląskie",
+          "score": {
+            "home": 4,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 16,
+      "mecze": [
+        {
+          "home": "Górnik Nowe Miasto Wałbrzych",
+          "away": "Kryształ Stronie Śląskie",
+          "score": {
+            "home": 5,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Zamek Kamieniec Ząbkowicki",
+          "away": "Skałki Stolec",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Zdrój Jedlina Zdrój",
+          "away": "Delta Słupice",
+          "score": {
+            "home": 5,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Cukrownik/Polonia Pszenno",
+          "away": "Pogoń Pieszyce",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Polonia-Stal Świdnica",
+          "away": "Szczyt Boguszów-Gorce",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "LKS Bystrzyca Górna",
+          "away": "Lechia II Dzierżoniów",
+          "score": {
+            "home": 4,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Zjednoczeni Żarów",
+          "away": "Bielawianka Bielawa",
+          "score": {
+            "home": 1,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 17,
+      "mecze": [
+        {
+          "home": "Zjednoczeni Żarów",
+          "away": "Górnik Nowe Miasto Wałbrzych",
+          "score": {
+            "home": 3,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Bielawianka Bielawa",
+          "away": "LKS Bystrzyca Górna",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Lechia II Dzierżoniów",
+          "away": "Polonia-Stal Świdnica",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Szczyt Boguszów-Gorce",
+          "away": "Cukrownik/Polonia Pszenno",
+          "score": {
+            "home": 6,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Pogoń Pieszyce",
+          "away": "Zdrój Jedlina Zdrój",
+          "score": {
+            "home": 2,
+            "away": 3
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Delta Słupice",
+          "away": "Zamek Kamieniec Ząbkowicki",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Skałki Stolec",
+          "away": "Włókniarz Głuszyca",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "MLKS Radków",
+          "away": "Kryształ Stronie Śląskie",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 18,
+      "mecze": [
+        {
+          "home": "Górnik Nowe Miasto Wałbrzych",
+          "away": "MLKS Radków",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Kryształ Stronie Śląskie",
+          "away": "Skałki Stolec",
+          "score": {
+            "home": 1,
+            "away": 4
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Głuszyca",
+          "away": "Delta Słupice",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Zamek Kamieniec Ząbkowicki",
+          "away": "Pogoń Pieszyce",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Zdrój Jedlina Zdrój",
+          "away": "Szczyt Boguszów-Gorce",
+          "score": {
+            "home": 3,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Cukrownik/Polonia Pszenno",
+          "away": "Lechia II Dzierżoniów",
+          "score": {
+            "home": 0,
+            "away": 5
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Polonia-Stal Świdnica",
+          "away": "Bielawianka Bielawa",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "LKS Bystrzyca Górna",
+          "away": "Zjednoczeni Żarów",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 19,
+      "mecze": [
+        {
+          "home": "Cukrownik/Polonia Pszenno",
+          "away": "Bielawianka Bielawa",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "LKS Bystrzyca Górna",
+          "away": "Górnik Nowe Miasto Wałbrzych",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Zjednoczeni Żarów",
+          "away": "Polonia-Stal Świdnica",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Lechia II Dzierżoniów",
+          "away": "Zdrój Jedlina Zdrój",
+          "score": {
+            "home": 3,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Szczyt Boguszów-Gorce",
+          "away": "Zamek Kamieniec Ząbkowicki",
+          "score": {
+            "home": 2,
+            "away": 2
+          },
+          "result": "X",
+          "date": ""
+        },
+        {
+          "home": "Pogoń Pieszyce",
+          "away": "Włókniarz Głuszyca",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Delta Słupice",
+          "away": "Kryształ Stronie Śląskie",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Skałki Stolec",
+          "away": "MLKS Radków",
+          "score": {
+            "home": 0,
+            "away": 0
+          },
+          "result": "X",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 20,
+      "mecze": [
+        {
+          "home": "Górnik Nowe Miasto Wałbrzych",
+          "away": "Skałki Stolec",
+          "score": {
+            "home": 1,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "MLKS Radków",
+          "away": "Delta Słupice",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Kryształ Stronie Śląskie",
+          "away": "Pogoń Pieszyce",
+          "score": {
+            "home": 4,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Włókniarz Głuszyca",
+          "away": "Szczyt Boguszów-Gorce",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Zamek Kamieniec Ząbkowicki",
+          "away": "Lechia II Dzierżoniów",
+          "score": {
+            "home": 4,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Zdrój Jedlina Zdrój",
+          "away": "Bielawianka Bielawa",
+          "score": {
+            "home": 1,
+            "away": 6
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Cukrownik/Polonia Pszenno",
+          "away": "Zjednoczeni Żarów",
+          "score": {
+            "home": 0,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Polonia-Stal Świdnica",
+          "away": "LKS Bystrzyca Górna",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "nr": 21,
+      "mecze": [
+        {
+          "home": "Polonia-Stal Świdnica",
+          "away": "Górnik Nowe Miasto Wałbrzych",
+          "score": {
+            "home": 3,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "LKS Bystrzyca Górna",
+          "away": "Cukrownik/Polonia Pszenno",
+          "score": {
+            "home": 2,
+            "away": 0
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Zjednoczeni Żarów",
+          "away": "Zdrój Jedlina Zdrój",
+          "score": {
+            "home": 3,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Bielawianka Bielawa",
+          "away": "Zamek Kamieniec Ząbkowicki",
+          "score": {
+            "home": 6,
+            "away": 2
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Lechia II Dzierżoniów",
+          "away": "Włókniarz Głuszyca",
+          "score": {
+            "home": 0,
+            "away": 1
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Szczyt Boguszów-Gorce",
+          "away": "Kryształ Stronie Śląskie",
+          "score": {
+            "home": 2,
+            "away": 1
+          },
+          "result": "1",
+          "date": ""
+        },
+        {
+          "home": "Pogoń Pieszyce",
+          "away": "MLKS Radków",
+          "score": {
+            "home": 1,
+            "away": 2
+          },
+          "result": "2",
+          "date": ""
+        },
+        {
+          "home": "Delta Słupice",
+          "away": "Skałki Stolec",
+          "score": {
+            "home": 1,
+            "away": 1
+          },
+          "result": "X",
+          "date": ""
+        }
+      ]
+    }
+  ]
+}
