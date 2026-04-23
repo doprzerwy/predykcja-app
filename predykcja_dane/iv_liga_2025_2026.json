@@ -8,7 +8,7 @@
         {
           "id": "IV-1-1",
           "home": "Piast Nowa Ruda",
-          "away": "Iskra Księginice\t2 sierpnia",
+          "away": "Iskra Księginice",
           "score": {
             "home": 3,
             "away": 1
@@ -21,7 +21,7 @@
         {
           "id": "IV-1-2",
           "home": "AKS Strzegom",
-          "away": "Polonia Środa Śląska\t2 sierpnia",
+          "away": "Polonia Środa Śląska",
           "score": {
             "home": 2,
             "away": 1
@@ -34,7 +34,7 @@
         {
           "id": "IV-1-3",
           "home": "Twardy Świętoszów",
-          "away": "Prochowiczanka Prochowice\t2 sierpnia",
+          "away": "Prochowiczanka Prochowice",
           "score": {
             "home": 0,
             "away": 2
@@ -47,7 +47,7 @@
         {
           "id": "IV-1-4",
           "home": "Górnik Wałbrzych",
-          "away": "Orzeł Ząbkowice Śląskie\t2 sierpnia",
+          "away": "Orzeł Ząbkowice Śląskie",
           "score": {
             "home": 0,
             "away": 1
@@ -60,7 +60,7 @@
         {
           "id": "IV-1-5",
           "home": "Błękitni Kościelec",
-          "away": "Lechia Dzierżoniów\t3 sierpnia",
+          "away": "Lechia Dzierżoniów",
           "score": {
             "home": 2,
             "away": 3
@@ -73,7 +73,7 @@
         {
           "id": "IV-1-6",
           "home": "GKS Mirków/Długołęka",
-          "away": "Piast Żmigród\t2 sierpnia",
+          "away": "Piast Żmigród",
           "score": {
             "home": 0,
             "away": 2
@@ -86,7 +86,7 @@
         {
           "id": "IV-1-7",
           "home": "Moto Jelcz Oława",
-          "away": "Chrobry II Głogów\t2 sierpnia",
+          "away": "Chrobry II Głogów",
           "score": {
             "home": 2,
             "away": 2
@@ -99,7 +99,7 @@
         {
           "id": "IV-1-8",
           "home": "Górnik Złotoryja",
-          "away": "Barycz Sułów\t2 sierpnia",
+          "away": "Barycz Sułów",
           "score": {
             "home": 0,
             "away": 3
@@ -112,7 +112,7 @@
         {
           "id": "IV-1-9",
           "home": "Łużyce Lubań",
-          "away": "Błyskawica Gać\t2 sierpnia",
+          "away": "Błyskawica Gać",
           "score": {
             "home": 1,
             "away": 0
@@ -130,7 +130,7 @@
         {
           "id": "IV-2-10",
           "home": "Barycz Sułów",
-          "away": "Łużyce Lubań\t9 sierpnia",
+          "away": "Łużyce Lubań",
           "score": {
             "home": 6,
             "away": 0
@@ -143,7 +143,7 @@
         {
           "id": "IV-2-11",
           "home": "Chrobry II Głogów",
-          "away": "Górnik Złotoryja\t10 sierpnia",
+          "away": "Górnik Złotoryja",
           "score": {
             "home": 0,
             "away": 1
@@ -156,7 +156,7 @@
         {
           "id": "IV-2-12",
           "home": "Piast Żmigród",
-          "away": "Moto Jelcz Oława\t9 sierpnia",
+          "away": "Moto Jelcz Oława",
           "score": {
             "home": 1,
             "away": 0
@@ -169,7 +169,7 @@
         {
           "id": "IV-2-13",
           "home": "Lechia Dzierżoniów",
-          "away": "GKS Mirków/Długołęka\t9 sierpnia",
+          "away": "GKS Mirków/Długołęka",
           "score": {
             "home": 3,
             "away": 2
@@ -182,7 +182,7 @@
         {
           "id": "IV-2-14",
           "home": "Orzeł Ząbkowice Śląskie",
-          "away": "Błękitni Kościelec\t9 sierpnia",
+          "away": "Błękitni Kościelec",
           "score": {
             "home": 4,
             "away": 0
@@ -195,7 +195,7 @@
         {
           "id": "IV-2-15",
           "home": "Prochowiczanka Prochowice",
-          "away": "Górnik Wałbrzych\t9 sierpnia",
+          "away": "Górnik Wałbrzych",
           "score": {
             "home": 3,
             "away": 2
@@ -208,7 +208,7 @@
         {
           "id": "IV-2-16",
           "home": "Polonia Środa Śląska",
-          "away": "Twardy Świętoszów\t9 sierpnia",
+          "away": "Twardy Świętoszów",
           "score": {
             "home": 1,
             "away": 2
@@ -221,7 +221,7 @@
         {
           "id": "IV-2-17",
           "home": "Piast Nowa Ruda",
-          "away": "AKS Strzegom\t9 sierpnia",
+          "away": "AKS Strzegom",
           "score": {
             "home": 2,
             "away": 0
@@ -234,7 +234,7 @@
         {
           "id": "IV-2-18",
           "home": "Błyskawica Gać",
-          "away": "Iskra Księginice\t6 sierpnia",
+          "away": "Iskra Księginice",
           "score": {
             "home": 5,
             "away": 3
@@ -252,7 +252,7 @@
         {
           "id": "IV-3-19",
           "home": "AKS Strzegom",
-          "away": "Iskra Księginice\t16 sierpnia",
+          "away": "Iskra Księginice",
           "score": {
             "home": 2,
             "away": 1
@@ -265,7 +265,7 @@
         {
           "id": "IV-3-20",
           "home": "Twardy Świętoszów",
-          "away": "Piast Nowa Ruda\t16 sierpnia",
+          "away": "Piast Nowa Ruda",
           "score": {
             "home": 0,
             "away": 6
@@ -278,7 +278,7 @@
         {
           "id": "IV-3-21",
           "home": "Górnik Wałbrzych",
-          "away": "Polonia Środa Śląska\t16 sierpnia",
+          "away": "Polonia Środa Śląska",
           "score": {
             "home": 1,
             "away": 0
@@ -291,7 +291,7 @@
         {
           "id": "IV-3-22",
           "home": "Błękitni Kościelec",
-          "away": "Prochowiczanka Prochowice\t15 sierpnia",
+          "away": "Prochowiczanka Prochowice",
           "score": {
             "home": 1,
             "away": 0
@@ -304,7 +304,7 @@
         {
           "id": "IV-3-23",
           "home": "GKS Mirków/Długołęka",
-          "away": "Orzeł Ząbkowice Śląskie\t14 sierpnia",
+          "away": "Orzeł Ząbkowice Śląskie",
           "score": {
             "home": 2,
             "away": 3
@@ -317,7 +317,7 @@
         {
           "id": "IV-3-24",
           "home": "Moto Jelcz Oława",
-          "away": "Lechia Dzierżoniów\t14 sierpnia",
+          "away": "Lechia Dzierżoniów",
           "score": {
             "home": 1,
             "away": 1
@@ -330,7 +330,7 @@
         {
           "id": "IV-3-25",
           "home": "Górnik Złotoryja",
-          "away": "Piast Żmigród\t15 sierpnia",
+          "away": "Piast Żmigród",
           "score": {
             "home": 1,
             "away": 2
@@ -343,7 +343,7 @@
         {
           "id": "IV-3-26",
           "home": "Łużyce Lubań",
-          "away": "Chrobry II Głogów\t16 sierpnia",
+          "away": "Chrobry II Głogów",
           "score": {
             "home": 0,
             "away": 1
@@ -356,7 +356,7 @@
         {
           "id": "IV-3-27",
           "home": "Błyskawica Gać",
-          "away": "Barycz Sułów\t16 sierpnia",
+          "away": "Barycz Sułów",
           "score": {
             "home": 0,
             "away": 3
@@ -374,7 +374,7 @@
         {
           "id": "IV-4-28",
           "home": "Iskra Księginice",
-          "away": "Barycz Sułów\t24 sierpnia",
+          "away": "Barycz Sułów",
           "score": {
             "home": 1,
             "away": 4
@@ -387,7 +387,7 @@
         {
           "id": "IV-4-29",
           "home": "Chrobry II Głogów",
-          "away": "Błyskawica Gać\t24 sierpnia",
+          "away": "Błyskawica Gać",
           "score": {
             "home": 1,
             "away": 1
@@ -400,7 +400,7 @@
         {
           "id": "IV-4-30",
           "home": "Piast Żmigród",
-          "away": "Łużyce Lubań\t23 sierpnia",
+          "away": "Łużyce Lubań",
           "score": {
             "home": 2,
             "away": 0
@@ -413,7 +413,7 @@
         {
           "id": "IV-4-31",
           "home": "Lechia Dzierżoniów",
-          "away": "Górnik Złotoryja\t23 sierpnia",
+          "away": "Górnik Złotoryja",
           "score": {
             "home": 2,
             "away": 1
@@ -426,7 +426,7 @@
         {
           "id": "IV-4-32",
           "home": "Orzeł Ząbkowice Śląskie",
-          "away": "Moto Jelcz Oława\t23 sierpnia",
+          "away": "Moto Jelcz Oława",
           "score": {
             "home": 1,
             "away": 5
@@ -439,7 +439,7 @@
         {
           "id": "IV-4-33",
           "home": "Prochowiczanka Prochowice",
-          "away": "GKS Mirków/Długołęka\t23 sierpnia",
+          "away": "GKS Mirków/Długołęka",
           "score": {
             "home": 2,
             "away": 1
@@ -452,7 +452,7 @@
         {
           "id": "IV-4-34",
           "home": "Polonia Środa Śląska",
-          "away": "Błękitni Kościelec\t23 sierpnia",
+          "away": "Błękitni Kościelec",
           "score": {
             "home": 0,
             "away": 1
@@ -465,7 +465,7 @@
         {
           "id": "IV-4-35",
           "home": "AKS Strzegom",
-          "away": "Twardy Świętoszów\t23 sierpnia",
+          "away": "Twardy Świętoszów",
           "score": {
             "home": 0,
             "away": 2
@@ -478,7 +478,7 @@
         {
           "id": "IV-4-36",
           "home": "Górnik Wałbrzych",
-          "away": "Piast Nowa Ruda\t22 sierpnia",
+          "away": "Piast Nowa Ruda",
           "score": {
             "home": 1,
             "away": 2
@@ -496,7 +496,7 @@
         {
           "id": "IV-5-37",
           "home": "Twardy Świętoszów",
-          "away": "Iskra Księginice\t27 sierpnia",
+          "away": "Iskra Księginice",
           "score": {
             "home": 2,
             "away": 5
@@ -509,7 +509,7 @@
         {
           "id": "IV-5-38",
           "home": "Górnik Wałbrzych",
-          "away": "AKS Strzegom\t27 sierpnia",
+          "away": "AKS Strzegom",
           "score": {
             "home": 0,
             "away": 0
@@ -522,7 +522,7 @@
         {
           "id": "IV-5-39",
           "home": "Błękitni Kościelec",
-          "away": "Piast Nowa Ruda\t27 sierpnia",
+          "away": "Piast Nowa Ruda",
           "score": {
             "home": 1,
             "away": 3
@@ -535,7 +535,7 @@
         {
           "id": "IV-5-40",
           "home": "GKS Mirków/Długołęka",
-          "away": "Polonia Środa Śląska\t27 sierpnia",
+          "away": "Polonia Środa Śląska",
           "score": {
             "home": 0,
             "away": 0
@@ -548,7 +548,7 @@
         {
           "id": "IV-5-41",
           "home": "Moto Jelcz Oława",
-          "away": "Prochowiczanka Prochowice\t27 sierpnia",
+          "away": "Prochowiczanka Prochowice",
           "score": {
             "home": 2,
             "away": 0
@@ -561,7 +561,7 @@
         {
           "id": "IV-5-42",
           "home": "Górnik Złotoryja",
-          "away": "Orzeł Ząbkowice Śląskie\t27 sierpnia",
+          "away": "Orzeł Ząbkowice Śląskie",
           "score": {
             "home": 3,
             "away": 0
@@ -574,7 +574,7 @@
         {
           "id": "IV-5-43",
           "home": "Łużyce Lubań",
-          "away": "Lechia Dzierżoniów\t27 sierpnia",
+          "away": "Lechia Dzierżoniów",
           "score": {
             "home": 0,
             "away": 2
@@ -587,7 +587,7 @@
         {
           "id": "IV-5-44",
           "home": "Błyskawica Gać",
-          "away": "Piast Żmigród\t27 sierpnia",
+          "away": "Piast Żmigród",
           "score": {
             "home": 1,
             "away": 2
@@ -600,7 +600,7 @@
         {
           "id": "IV-5-45",
           "home": "Barycz Sułów",
-          "away": "Chrobry II Głogów\t27 sierpnia",
+          "away": "Chrobry II Głogów",
           "score": {
             "home": 4,
             "away": 0
@@ -618,7 +618,7 @@
         {
           "id": "IV-6-46",
           "home": "Iskra Księginice",
-          "away": "Chrobry II Głogów\t30 sierpnia",
+          "away": "Chrobry II Głogów",
           "score": {
             "home": 1,
             "away": 2
@@ -631,7 +631,7 @@
         {
           "id": "IV-6-47",
           "home": "Piast Żmigród",
-          "away": "Barycz Sułów\t30 sierpnia",
+          "away": "Barycz Sułów",
           "score": {
             "home": 1,
             "away": 3
@@ -644,7 +644,7 @@
         {
           "id": "IV-6-48",
           "home": "Lechia Dzierżoniów",
-          "away": "Błyskawica Gać\t30 sierpnia",
+          "away": "Błyskawica Gać",
           "score": {
             "home": 6,
             "away": 1
@@ -657,7 +657,7 @@
         {
           "id": "IV-6-49",
           "home": "Orzeł Ząbkowice Śląskie",
-          "away": "Łużyce Lubań\t31 sierpnia",
+          "away": "Łużyce Lubań",
           "score": {
             "home": 4,
             "away": 2
@@ -670,7 +670,7 @@
         {
           "id": "IV-6-50",
           "home": "Prochowiczanka Prochowice",
-          "away": "Górnik Złotoryja\t30 sierpnia",
+          "away": "Górnik Złotoryja",
           "score": {
             "home": 1,
             "away": 3
@@ -683,7 +683,7 @@
         {
           "id": "IV-6-51",
           "home": "Polonia Środa Śląska",
-          "away": "Moto Jelcz Oława\t30 sierpnia",
+          "away": "Moto Jelcz Oława",
           "score": {
             "home": 1,
             "away": 2
@@ -696,7 +696,7 @@
         {
           "id": "IV-6-52",
           "home": "Piast Nowa Ruda",
-          "away": "GKS Mirków/Długołęka\t30 sierpnia",
+          "away": "GKS Mirków/Długołęka",
           "score": {
             "home": 1,
             "away": 1
@@ -709,7 +709,7 @@
         {
           "id": "IV-6-53",
           "home": "AKS Strzegom",
-          "away": "Błękitni Kościelec\t30 sierpnia",
+          "away": "Błękitni Kościelec",
           "score": {
             "home": 3,
             "away": 3
@@ -722,7 +722,7 @@
         {
           "id": "IV-6-54",
           "home": "Twardy Świętoszów",
-          "away": "Górnik Wałbrzych\t31 sierpnia",
+          "away": "Górnik Wałbrzych",
           "score": {
             "home": 0,
             "away": 1
@@ -740,7 +740,7 @@
         {
           "id": "IV-7-55",
           "home": "Górnik Wałbrzych",
-          "away": "Iskra Księginice\t6 września",
+          "away": "Iskra Księginice",
           "score": {
             "home": 3,
             "away": 0
@@ -753,7 +753,7 @@
         {
           "id": "IV-7-56",
           "home": "Błękitni Kościelec",
-          "away": "Twardy Świętoszów\t6 września",
+          "away": "Twardy Świętoszów",
           "score": {
             "home": 5,
             "away": 1
@@ -766,7 +766,7 @@
         {
           "id": "IV-7-57",
           "home": "GKS Mirków/Długołęka",
-          "away": "AKS Strzegom\t6 września",
+          "away": "AKS Strzegom",
           "score": {
             "home": 4,
             "away": 0
@@ -779,7 +779,7 @@
         {
           "id": "IV-7-58",
           "home": "Moto Jelcz Oława",
-          "away": "Piast Nowa Ruda\t6 września",
+          "away": "Piast Nowa Ruda",
           "score": {
             "home": 1,
             "away": 0
@@ -792,7 +792,7 @@
         {
           "id": "IV-7-59",
           "home": "Górnik Złotoryja",
-          "away": "Polonia Środa Śląska\t10 września",
+          "away": "Polonia Środa Śląska",
           "score": {
             "home": 2,
             "away": 0
@@ -805,7 +805,7 @@
         {
           "id": "IV-7-60",
           "home": "Łużyce Lubań",
-          "away": "Prochowiczanka Prochowice\t7 września",
+          "away": "Prochowiczanka Prochowice",
           "score": {
             "home": 4,
             "away": 1
@@ -818,7 +818,7 @@
         {
           "id": "IV-7-61",
           "home": "Błyskawica Gać",
-          "away": "Orzeł Ząbkowice Śląskie\t6 września",
+          "away": "Orzeł Ząbkowice Śląskie",
           "score": {
             "home": 3,
             "away": 2
@@ -831,7 +831,7 @@
         {
           "id": "IV-7-62",
           "home": "Barycz Sułów",
-          "away": "Lechia Dzierżoniów\t10 września",
+          "away": "Lechia Dzierżoniów",
           "score": {
             "home": 5,
             "away": 0
@@ -844,7 +844,7 @@
         {
           "id": "IV-7-63",
           "home": "Chrobry II Głogów",
-          "away": "Piast Żmigród\t6 września",
+          "away": "Piast Żmigród",
           "score": {
             "home": 1,
             "away": 1
@@ -862,7 +862,7 @@
         {
           "id": "IV-8-64",
           "home": "Iskra Księginice",
-          "away": "Piast Żmigród\t14 września",
+          "away": "Piast Żmigród",
           "score": {
             "home": 1,
             "away": 0
@@ -875,7 +875,7 @@
         {
           "id": "IV-8-65",
           "home": "Lechia Dzierżoniów",
-          "away": "Chrobry II Głogów\t13 września",
+          "away": "Chrobry II Głogów",
           "score": {
             "home": 1,
             "away": 0
@@ -888,7 +888,7 @@
         {
           "id": "IV-8-66",
           "home": "Orzeł Ząbkowice Śląskie",
-          "away": "Barycz Sułów\t13 września",
+          "away": "Barycz Sułów",
           "score": {
             "home": 0,
             "away": 2
@@ -901,7 +901,7 @@
         {
           "id": "IV-8-67",
           "home": "Prochowiczanka Prochowice",
-          "away": "Błyskawica Gać\t13 września",
+          "away": "Błyskawica Gać",
           "score": {
             "home": 4,
             "away": 3
@@ -914,7 +914,7 @@
         {
           "id": "IV-8-68",
           "home": "Polonia Środa Śląska",
-          "away": "Łużyce Lubań\t13 września",
+          "away": "Łużyce Lubań",
           "score": {
             "home": 0,
             "away": 1
@@ -927,7 +927,7 @@
         {
           "id": "IV-8-69",
           "home": "Piast Nowa Ruda",
-          "away": "Górnik Złotoryja\t13 września",
+          "away": "Górnik Złotoryja",
           "score": {
             "home": 0,
             "away": 2
@@ -940,7 +940,7 @@
         {
           "id": "IV-8-70",
           "home": "AKS Strzegom",
-          "away": "Moto Jelcz Oława\t13 września",
+          "away": "Moto Jelcz Oława",
           "score": {
             "home": 1,
             "away": 0
@@ -953,7 +953,7 @@
         {
           "id": "IV-8-71",
           "home": "Twardy Świętoszów",
-          "away": "GKS Mirków/Długołęka\t13 września",
+          "away": "GKS Mirków/Długołęka",
           "score": {
             "home": 2,
             "away": 2
@@ -966,7 +966,7 @@
         {
           "id": "IV-8-72",
           "home": "Górnik Wałbrzych",
-          "away": "Błękitni Kościelec\t13 września",
+          "away": "Błękitni Kościelec",
           "score": {
             "home": 1,
             "away": 1
@@ -984,7 +984,7 @@
         {
           "id": "IV-9-73",
           "home": "Błękitni Kościelec",
-          "away": "Iskra Księginice\t20 września",
+          "away": "Iskra Księginice",
           "score": {
             "home": 1,
             "away": 1
@@ -997,7 +997,7 @@
         {
           "id": "IV-9-74",
           "home": "GKS Mirków/Długołęka",
-          "away": "Górnik Wałbrzych\t20 września",
+          "away": "Górnik Wałbrzych",
           "score": {
             "home": 1,
             "away": 0
@@ -1010,7 +1010,7 @@
         {
           "id": "IV-9-75",
           "home": "Moto Jelcz Oława",
-          "away": "Twardy Świętoszów\t20 września",
+          "away": "Twardy Świętoszów",
           "score": {
             "home": 1,
             "away": 0
@@ -1023,7 +1023,7 @@
         {
           "id": "IV-9-76",
           "home": "Górnik Złotoryja",
-          "away": "AKS Strzegom\t21 września",
+          "away": "AKS Strzegom",
           "score": {
             "home": 1,
             "away": 1
@@ -1036,7 +1036,7 @@
         {
           "id": "IV-9-77",
           "home": "Łużyce Lubań",
-          "away": "Piast Nowa Ruda\t20 września",
+          "away": "Piast Nowa Ruda",
           "score": {
             "home": 0,
             "away": 1
@@ -1049,7 +1049,7 @@
         {
           "id": "IV-9-78",
           "home": "Błyskawica Gać",
-          "away": "Polonia Środa Śląska\t20 września",
+          "away": "Polonia Środa Śląska",
           "score": {
             "home": 1,
             "away": 1
@@ -1062,7 +1062,7 @@
         {
           "id": "IV-9-79",
           "home": "Barycz Sułów",
-          "away": "Prochowiczanka Prochowice\t20 września",
+          "away": "Prochowiczanka Prochowice",
           "score": {
             "home": 3,
             "away": 1
@@ -1075,7 +1075,7 @@
         {
           "id": "IV-9-80",
           "home": "Chrobry II Głogów",
-          "away": "Orzeł Ząbkowice Śląskie\t20 września",
+          "away": "Orzeł Ząbkowice Śląskie",
           "score": {
             "home": 2,
             "away": 2
@@ -1088,7 +1088,7 @@
         {
           "id": "IV-9-81",
           "home": "Piast Żmigród",
-          "away": "Lechia Dzierżoniów\t29 listopada",
+          "away": "Lechia Dzierżoniów",
           "score": {
             "home": 1,
             "away": 2
@@ -1106,7 +1106,7 @@
         {
           "id": "IV-10-82",
           "home": "Iskra Księginice",
-          "away": "Lechia Dzierżoniów\t27 września",
+          "away": "Lechia Dzierżoniów",
           "score": {
             "home": 0,
             "away": 3
@@ -1119,7 +1119,7 @@
         {
           "id": "IV-10-83",
           "home": "Orzeł Ząbkowice Śląskie",
-          "away": "Piast Żmigród\t27 września",
+          "away": "Piast Żmigród",
           "score": {
             "home": 1,
             "away": 1
@@ -1132,7 +1132,7 @@
         {
           "id": "IV-10-84",
           "home": "Prochowiczanka Prochowice",
-          "away": "Chrobry II Głogów\t27 września",
+          "away": "Chrobry II Głogów",
           "score": {
             "home": 4,
             "away": 2
@@ -1145,7 +1145,7 @@
         {
           "id": "IV-10-85",
           "home": "Polonia Środa Śląska",
-          "away": "Barycz Sułów\t27 września",
+          "away": "Barycz Sułów",
           "score": {
             "home": 1,
             "away": 6
@@ -1158,7 +1158,7 @@
         {
           "id": "IV-10-86",
           "home": "Piast Nowa Ruda",
-          "away": "Błyskawica Gać\t28 września",
+          "away": "Błyskawica Gać",
           "score": {
             "home": 2,
             "away": 2
@@ -1171,7 +1171,7 @@
         {
           "id": "IV-10-87",
           "home": "AKS Strzegom",
-          "away": "Łużyce Lubań\t27 września",
+          "away": "Łużyce Lubań",
           "score": {
             "home": 0,
             "away": 0
@@ -1184,7 +1184,7 @@
         {
           "id": "IV-10-88",
           "home": "Twardy Świętoszów",
-          "away": "Górnik Złotoryja\t27 września",
+          "away": "Górnik Złotoryja",
           "score": {
             "home": 4,
             "away": 4
@@ -1197,7 +1197,7 @@
         {
           "id": "IV-10-89",
           "home": "Górnik Wałbrzych",
-          "away": "Moto Jelcz Oława\t27 września",
+          "away": "Moto Jelcz Oława",
           "score": {
             "home": 0,
             "away": 2
@@ -1210,7 +1210,7 @@
         {
           "id": "IV-10-90",
           "home": "Błękitni Kościelec",
-          "away": "GKS Mirków/Długołęka\t28 września",
+          "away": "GKS Mirków/Długołęka",
           "score": {
             "home": 0,
             "away": 1
@@ -1228,7 +1228,7 @@
         {
           "id": "IV-11-91",
           "home": "GKS Mirków/Długołęka",
-          "away": "Iskra Księginice\t4 października",
+          "away": "Iskra Księginice",
           "score": {
             "home": 1,
             "away": 1
@@ -1241,7 +1241,7 @@
         {
           "id": "IV-11-92",
           "home": "Moto Jelcz Oława",
-          "away": "Błękitni Kościelec\t4 października",
+          "away": "Błękitni Kościelec",
           "score": {
             "home": 4,
             "away": 3
@@ -1254,7 +1254,7 @@
         {
           "id": "IV-11-93",
           "home": "Łużyce Lubań",
-          "away": "Twardy Świętoszów\t4 października",
+          "away": "Twardy Świętoszów",
           "score": {
             "home": 4,
             "away": 0
@@ -1267,7 +1267,7 @@
         {
           "id": "IV-11-94",
           "home": "Błyskawica Gać",
-          "away": "AKS Strzegom\t4 października",
+          "away": "AKS Strzegom",
           "score": {
             "home": 4,
             "away": 0
@@ -1280,7 +1280,7 @@
         {
           "id": "IV-11-95",
           "home": "Barycz Sułów",
-          "away": "Piast Nowa Ruda\t4 października",
+          "away": "Piast Nowa Ruda",
           "score": {
             "home": 3,
             "away": 1
@@ -1293,7 +1293,7 @@
         {
           "id": "IV-11-96",
           "home": "Chrobry II Głogów",
-          "away": "Polonia Środa Śląska\t4 października",
+          "away": "Polonia Środa Śląska",
           "score": {
             "home": 1,
             "away": 0
@@ -1306,7 +1306,7 @@
         {
           "id": "IV-11-97",
           "home": "Piast Żmigród",
-          "away": "Prochowiczanka Prochowice\t4 października",
+          "away": "Prochowiczanka Prochowice",
           "score": {
             "home": 7,
             "away": 1
@@ -1319,7 +1319,7 @@
         {
           "id": "IV-11-98",
           "home": "Lechia Dzierżoniów",
-          "away": "Orzeł Ząbkowice Śląskie\t4 października",
+          "away": "Orzeł Ząbkowice Śląskie",
           "score": {
             "home": 2,
             "away": 2
@@ -1332,7 +1332,7 @@
         {
           "id": "IV-11-99",
           "home": "Górnik Wałbrzych",
-          "away": "Górnik Złotoryja\t4 października",
+          "away": "Górnik Złotoryja",
           "score": {
             "home": 1,
             "away": 1
@@ -1350,7 +1350,7 @@
         {
           "id": "IV-12-100",
           "home": "Iskra Księginice",
-          "away": "Orzeł Ząbkowice Śląskie\t12 października",
+          "away": "Orzeł Ząbkowice Śląskie",
           "score": {
             "home": 1,
             "away": 3
@@ -1363,7 +1363,7 @@
         {
           "id": "IV-12-101",
           "home": "Prochowiczanka Prochowice",
-          "away": "Lechia Dzierżoniów\t11 października",
+          "away": "Lechia Dzierżoniów",
           "score": {
             "home": 3,
             "away": 2
@@ -1376,7 +1376,7 @@
         {
           "id": "IV-12-102",
           "home": "Polonia Środa Śląska",
-          "away": "Piast Żmigród\t11 października",
+          "away": "Piast Żmigród",
           "score": {
             "home": 1,
             "away": 2
@@ -1389,7 +1389,7 @@
         {
           "id": "IV-12-103",
           "home": "Piast Nowa Ruda",
-          "away": "Chrobry II Głogów\t11 października",
+          "away": "Chrobry II Głogów",
           "score": {
             "home": 2,
             "away": 3
@@ -1402,7 +1402,7 @@
         {
           "id": "IV-12-104",
           "home": "AKS Strzegom",
-          "away": "Barycz Sułów\t11 października",
+          "away": "Barycz Sułów",
           "score": {
             "home": 0,
             "away": 2
@@ -1415,7 +1415,7 @@
         {
           "id": "IV-12-105",
           "home": "Twardy Świętoszów",
-          "away": "Błyskawica Gać\t11 października",
+          "away": "Błyskawica Gać",
           "score": {
             "home": 0,
             "away": 4
@@ -1428,7 +1428,7 @@
         {
           "id": "IV-12-106",
           "home": "Błękitni Kościelec",
-          "away": "Górnik Złotoryja\t11 października",
+          "away": "Górnik Złotoryja",
           "score": {
             "home": 3,
             "away": 1
@@ -1441,7 +1441,7 @@
         {
           "id": "IV-12-107",
           "home": "GKS Mirków/Długołęka",
-          "away": "Moto Jelcz Oława\t11 października",
+          "away": "Moto Jelcz Oława",
           "score": {
             "home": 0,
             "away": 1
@@ -1454,7 +1454,7 @@
         {
           "id": "IV-12-108",
           "home": "Łużyce Lubań",
-          "away": "Górnik Wałbrzych\t11 października",
+          "away": "Górnik Wałbrzych",
           "score": {
             "home": 2,
             "away": 2
@@ -1472,7 +1472,7 @@
         {
           "id": "IV-13-109",
           "home": "Moto Jelcz Oława",
-          "away": "Iskra Księginice\t19 października",
+          "away": "Iskra Księginice",
           "score": {
             "home": 2,
             "away": 1
@@ -1485,7 +1485,7 @@
         {
           "id": "IV-13-110",
           "home": "Górnik Złotoryja",
-          "away": "GKS Mirków/Długołęka\t18 października",
+          "away": "GKS Mirków/Długołęka",
           "score": {
             "home": 3,
             "away": 1
@@ -1498,7 +1498,7 @@
         {
           "id": "IV-13-111",
           "home": "Łużyce Lubań",
-          "away": "Błękitni Kościelec\t19 października",
+          "away": "Błękitni Kościelec",
           "score": {
             "home": 2,
             "away": 1
@@ -1511,7 +1511,7 @@
         {
           "id": "IV-13-112",
           "home": "Błyskawica Gać",
-          "away": "Górnik Wałbrzych\t18 października",
+          "away": "Górnik Wałbrzych",
           "score": {
             "home": 3,
             "away": 1
@@ -1524,7 +1524,7 @@
         {
           "id": "IV-13-113",
           "home": "Barycz Sułów",
-          "away": "Twardy Świętoszów\t18 października",
+          "away": "Twardy Świętoszów",
           "score": {
             "home": 10,
             "away": 1
@@ -1537,7 +1537,7 @@
         {
           "id": "IV-13-114",
           "home": "Chrobry II Głogów",
-          "away": "AKS Strzegom\t19 października",
+          "away": "AKS Strzegom",
           "score": {
             "home": 3,
             "away": 0
@@ -1550,7 +1550,7 @@
         {
           "id": "IV-13-115",
           "home": "Piast Żmigród",
-          "away": "Piast Nowa Ruda\t18 października",
+          "away": "Piast Nowa Ruda",
           "score": {
             "home": 2,
             "away": 2
@@ -1563,7 +1563,7 @@
         {
           "id": "IV-13-116",
           "home": "Lechia Dzierżoniów",
-          "away": "Polonia Środa Śląska\t18 października",
+          "away": "Polonia Środa Śląska",
           "score": {
             "home": 3,
             "away": 0
@@ -1576,7 +1576,7 @@
         {
           "id": "IV-13-117",
           "home": "Orzeł Ząbkowice Śląskie",
-          "away": "Prochowiczanka Prochowice\t18 października",
+          "away": "Prochowiczanka Prochowice",
           "score": {
             "home": 2,
             "away": 3
@@ -1594,7 +1594,7 @@
         {
           "id": "IV-14-118",
           "home": "Iskra Księginice",
-          "away": "Prochowiczanka Prochowice\t25 października",
+          "away": "Prochowiczanka Prochowice",
           "score": {
             "home": 2,
             "away": 4
@@ -1607,7 +1607,7 @@
         {
           "id": "IV-14-119",
           "home": "Polonia Środa Śląska",
-          "away": "Orzeł Ząbkowice Śląskie\t25 października",
+          "away": "Orzeł Ząbkowice Śląskie",
           "score": {
             "home": 2,
             "away": 1
@@ -1620,7 +1620,7 @@
         {
           "id": "IV-14-120",
           "home": "Piast Nowa Ruda",
-          "away": "Lechia Dzierżoniów\t24 października",
+          "away": "Lechia Dzierżoniów",
           "score": {
             "home": 2,
             "away": 2
@@ -1633,7 +1633,7 @@
         {
           "id": "IV-14-121",
           "home": "AKS Strzegom",
-          "away": "Piast Żmigród\t25 października",
+          "away": "Piast Żmigród",
           "score": {
             "home": 1,
             "away": 1
@@ -1646,7 +1646,7 @@
         {
           "id": "IV-14-122",
           "home": "Twardy Świętoszów",
-          "away": "Chrobry II Głogów\t25 października",
+          "away": "Chrobry II Głogów",
           "score": {
             "home": 0,
             "away": 3
@@ -1659,7 +1659,7 @@
         {
           "id": "IV-14-123",
           "home": "Górnik Wałbrzych",
-          "away": "Barycz Sułów\t25 października",
+          "away": "Barycz Sułów",
           "score": {
             "home": 1,
             "away": 2
@@ -1672,7 +1672,7 @@
         {
           "id": "IV-14-124",
           "home": "Błękitni Kościelec",
-          "away": "Błyskawica Gać\t26 października",
+          "away": "Błyskawica Gać",
           "score": {
             "home": 1,
             "away": 2
@@ -1685,7 +1685,7 @@
         {
           "id": "IV-14-125",
           "home": "GKS Mirków/Długołęka",
-          "away": "Łużyce Lubań\t25 października",
+          "away": "Łużyce Lubań",
           "score": {
             "home": 1,
             "away": 0
@@ -1698,7 +1698,7 @@
         {
           "id": "IV-14-126",
           "home": "Moto Jelcz Oława",
-          "away": "Górnik Złotoryja\t25 października",
+          "away": "Górnik Złotoryja",
           "score": {
             "home": 4,
             "away": 3
@@ -1716,7 +1716,7 @@
         {
           "id": "IV-15-127",
           "home": "Górnik Złotoryja",
-          "away": "Iskra Księginice\t2 listopada",
+          "away": "Iskra Księginice",
           "score": {
             "home": 6,
             "away": 0
@@ -1729,7 +1729,7 @@
         {
           "id": "IV-15-128",
           "home": "Łużyce Lubań",
-          "away": "Moto Jelcz Oława\t31 października",
+          "away": "Moto Jelcz Oława",
           "score": {
             "home": 1,
             "away": 1
@@ -1742,7 +1742,7 @@
         {
           "id": "IV-15-129",
           "home": "Błyskawica Gać",
-          "away": "GKS Mirków/Długołęka\t31 października",
+          "away": "GKS Mirków/Długołęka",
           "score": {
             "home": 1,
             "away": 0
@@ -1755,7 +1755,7 @@
         {
           "id": "IV-15-130",
           "home": "Barycz Sułów",
-          "away": "Błękitni Kościelec\t2 listopada",
+          "away": "Błękitni Kościelec",
           "score": {
             "home": 8,
             "away": 1
@@ -1768,7 +1768,7 @@
         {
           "id": "IV-15-131",
           "home": "Chrobry II Głogów",
-          "away": "Górnik Wałbrzych\t5 listopada",
+          "away": "Górnik Wałbrzych",
           "score": {
             "home": 4,
             "away": 1
@@ -1781,7 +1781,7 @@
         {
           "id": "IV-15-132",
           "home": "Piast Żmigród",
-          "away": "Twardy Świętoszów\t2 listopada",
+          "away": "Twardy Świętoszów",
           "score": {
             "home": 4,
             "away": 0
@@ -1794,7 +1794,7 @@
         {
           "id": "IV-15-133",
           "home": "Lechia Dzierżoniów",
-          "away": "AKS Strzegom\t31 października",
+          "away": "AKS Strzegom",
           "score": {
             "home": 2,
             "away": 2
@@ -1807,7 +1807,7 @@
         {
           "id": "IV-15-134",
           "home": "Orzeł Ząbkowice Śląskie",
-          "away": "Piast Nowa Ruda\t2 listopada",
+          "away": "Piast Nowa Ruda",
           "score": {
             "home": 4,
             "away": 0
@@ -1820,7 +1820,7 @@
         {
           "id": "IV-15-135",
           "home": "Prochowiczanka Prochowice",
-          "away": "Polonia Środa Śląska\t2 listopada",
+          "away": "Polonia Środa Śląska",
           "score": {
             "home": 3,
             "away": 0
@@ -1838,7 +1838,7 @@
         {
           "id": "IV-16-136",
           "home": "Iskra Księginice",
-          "away": "Polonia Środa Śląska\t8 listopada",
+          "away": "Polonia Środa Śląska",
           "score": {
             "home": 1,
             "away": 1
@@ -1851,7 +1851,7 @@
         {
           "id": "IV-16-137",
           "home": "Piast Nowa Ruda",
-          "away": "Prochowiczanka Prochowice\t8 listopada",
+          "away": "Prochowiczanka Prochowice",
           "score": {
             "home": 0,
             "away": 0
@@ -1864,7 +1864,7 @@
         {
           "id": "IV-16-138",
           "home": "AKS Strzegom",
-          "away": "Orzeł Ząbkowice Śląskie\t8 listopada",
+          "away": "Orzeł Ząbkowice Śląskie",
           "score": {
             "home": 0,
             "away": 1
@@ -1877,7 +1877,7 @@
         {
           "id": "IV-16-139",
           "home": "Twardy Świętoszów",
-          "away": "Lechia Dzierżoniów\t8 listopada",
+          "away": "Lechia Dzierżoniów",
           "score": {
             "home": 1,
             "away": 4
@@ -1890,7 +1890,7 @@
         {
           "id": "IV-16-140",
           "home": "Górnik Wałbrzych",
-          "away": "Piast Żmigród\t9 listopada",
+          "away": "Piast Żmigród",
           "score": {
             "home": 1,
             "away": 4
@@ -1903,7 +1903,7 @@
         {
           "id": "IV-16-141",
           "home": "Błękitni Kościelec",
-          "away": "Chrobry II Głogów\t8 listopada",
+          "away": "Chrobry II Głogów",
           "score": {
             "home": 1,
             "away": 3
@@ -1916,7 +1916,7 @@
         {
           "id": "IV-16-142",
           "home": "GKS Mirków/Długołęka",
-          "away": "Barycz Sułów\t8 listopada",
+          "away": "Barycz Sułów",
           "score": {
             "home": 0,
             "away": 6
@@ -1929,7 +1929,7 @@
         {
           "id": "IV-16-143",
           "home": "Moto Jelcz Oława",
-          "away": "Błyskawica Gać\t8 listopada",
+          "away": "Błyskawica Gać",
           "score": {
             "home": 0,
             "away": 1
@@ -1942,7 +1942,7 @@
         {
           "id": "IV-16-144",
           "home": "Górnik Złotoryja",
-          "away": "Łużyce Lubań\t8 listopada",
+          "away": "Łużyce Lubań",
           "score": {
             "home": 2,
             "away": 0
@@ -1960,7 +1960,7 @@
         {
           "id": "IV-17-145",
           "home": "Łużyce Lubań",
-          "away": "Iskra Księginice\t15 listopada",
+          "away": "Iskra Księginice",
           "score": {
             "home": 3,
             "away": 2
@@ -1973,7 +1973,7 @@
         {
           "id": "IV-17-146",
           "home": "Błyskawica Gać",
-          "away": "Górnik Złotoryja\t15 listopada",
+          "away": "Górnik Złotoryja",
           "score": {
             "home": 3,
             "away": 0
@@ -1986,7 +1986,7 @@
         {
           "id": "IV-17-147",
           "home": "Barycz Sułów",
-          "away": "Moto Jelcz Oława\t15 listopada",
+          "away": "Moto Jelcz Oława",
           "score": {
             "home": 1,
             "away": 0
@@ -1999,7 +1999,7 @@
         {
           "id": "IV-17-148",
           "home": "Chrobry II Głogów",
-          "away": "GKS Mirków/Długołęka\t15 listopada",
+          "away": "GKS Mirków/Długołęka",
           "score": {
             "home": 3,
             "away": 2
@@ -2012,7 +2012,7 @@
         {
           "id": "IV-17-149",
           "home": "Piast Żmigród",
-          "away": "Błękitni Kościelec\t15 listopada",
+          "away": "Błękitni Kościelec",
           "score": {
             "home": 3,
             "away": 0
@@ -2025,7 +2025,7 @@
         {
           "id": "IV-17-150",
           "home": "Lechia Dzierżoniów",
-          "away": "Górnik Wałbrzych\t15 listopada",
+          "away": "Górnik Wałbrzych",
           "score": {
             "home": 7,
             "away": 1
@@ -2038,7 +2038,7 @@
         {
           "id": "IV-17-151",
           "home": "Orzeł Ząbkowice Śląskie",
-          "away": "Twardy Świętoszów\t15 listopada",
+          "away": "Twardy Świętoszów",
           "score": {
             "home": 2,
             "away": 1
@@ -2051,7 +2051,7 @@
         {
           "id": "IV-17-152",
           "home": "Prochowiczanka Prochowice",
-          "away": "AKS Strzegom\t15 listopada",
+          "away": "AKS Strzegom",
           "score": {
             "home": 2,
             "away": 1
@@ -2064,7 +2064,7 @@
         {
           "id": "IV-17-153",
           "home": "Polonia Środa Śląska",
-          "away": "Piast Nowa Ruda\t15 listopada",
+          "away": "Piast Nowa Ruda",
           "score": {
             "home": 2,
             "away": 1
@@ -2082,7 +2082,7 @@
         {
           "id": "IV-18-154",
           "home": "Iskra Księginice",
-          "away": "Piast Nowa Ruda\t1 marca",
+          "away": "Piast Nowa Ruda",
           "score": {
             "home": 0,
             "away": 0
@@ -2095,7 +2095,7 @@
         {
           "id": "IV-18-155",
           "home": "Polonia Środa Śląska",
-          "away": "AKS Strzegom\t22 listopada",
+          "away": "AKS Strzegom",
           "score": {
             "home": 1,
             "away": 3
@@ -2108,7 +2108,7 @@
         {
           "id": "IV-18-156",
           "home": "Prochowiczanka Prochowice",
-          "away": "Twardy Świętoszów\t22 listopada",
+          "away": "Twardy Świętoszów",
           "score": {
             "home": 3,
             "away": 3
@@ -2121,7 +2121,7 @@
         {
           "id": "IV-18-157",
           "home": "Orzeł Ząbkowice Śląskie",
-          "away": "Górnik Wałbrzych\t22 listopada",
+          "away": "Górnik Wałbrzych",
           "score": {
             "home": 0,
             "away": 3
@@ -2134,7 +2134,7 @@
         {
           "id": "IV-18-158",
           "home": "Lechia Dzierżoniów",
-          "away": "Błękitni Kościelec\t22 listopada",
+          "away": "Błękitni Kościelec",
           "score": {
             "home": 1,
             "away": 1
@@ -2147,7 +2147,7 @@
         {
           "id": "IV-18-159",
           "home": "Piast Żmigród",
-          "away": "GKS Mirków/Długołęka\t22 listopada",
+          "away": "GKS Mirków/Długołęka",
           "score": {
             "home": 1,
             "away": 0
@@ -2160,7 +2160,7 @@
         {
           "id": "IV-18-160",
           "home": "Chrobry II Głogów",
-          "away": "Moto Jelcz Oława\t23 listopada",
+          "away": "Moto Jelcz Oława",
           "score": {
             "home": 1,
             "away": 0
@@ -2173,7 +2173,7 @@
         {
           "id": "IV-18-161",
           "home": "Barycz Sułów",
-          "away": "Górnik Złotoryja\t22 listopada",
+          "away": "Górnik Złotoryja",
           "score": {
             "home": 7,
             "away": 0
@@ -2186,7 +2186,7 @@
         {
           "id": "IV-18-162",
           "home": "Błyskawica Gać",
-          "away": "Łużyce Lubań\t22 listopada",
+          "away": "Łużyce Lubań",
           "score": {
             "home": 3,
             "away": 1
@@ -2204,7 +2204,7 @@
         {
           "id": "IV-19-163",
           "home": "Iskra Księginice",
-          "away": "Błyskawica Gać\t7 marca",
+          "away": "Błyskawica Gać",
           "score": {
             "home": 2,
             "away": 4
@@ -2217,7 +2217,7 @@
         {
           "id": "IV-19-164",
           "home": "Łużyce Lubań",
-          "away": "Barycz Sułów\t7 marca",
+          "away": "Barycz Sułów",
           "score": {
             "home": 0,
             "away": 4
@@ -2230,7 +2230,7 @@
         {
           "id": "IV-19-165",
           "home": "Górnik Złotoryja",
-          "away": "Chrobry II Głogów\t7 marca",
+          "away": "Chrobry II Głogów",
           "score": {
             "home": 1,
             "away": 1
@@ -2243,7 +2243,7 @@
         {
           "id": "IV-19-166",
           "home": "Moto Jelcz Oława",
-          "away": "Piast Żmigród\t7 marca",
+          "away": "Piast Żmigród",
           "score": {
             "home": 0,
             "away": 1
@@ -2256,7 +2256,7 @@
         {
           "id": "IV-19-167",
           "home": "GKS Mirków/Długołęka",
-          "away": "Lechia Dzierżoniów\t7 marca",
+          "away": "Lechia Dzierżoniów",
           "score": {
             "home": 3,
             "away": 2
@@ -2282,7 +2282,7 @@
         {
           "id": "IV-19-169",
           "home": "Górnik Wałbrzych",
-          "away": "Prochowiczanka Prochowice\t6 marca",
+          "away": "Prochowiczanka Prochowice",
           "score": {
             "home": 5,
             "away": 3
@@ -2295,7 +2295,7 @@
         {
           "id": "IV-19-170",
           "home": "Twardy Świętoszów",
-          "away": "Polonia Środa Śląska\t7 marca",
+          "away": "Polonia Środa Śląska",
           "score": {
             "home": 1,
             "away": 3
@@ -2308,7 +2308,7 @@
         {
           "id": "IV-19-171",
           "home": "AKS Strzegom",
-          "away": "Piast Nowa Ruda\t7 marca",
+          "away": "Piast Nowa Ruda",
           "score": {
             "home": 0,
             "away": 1
@@ -2326,7 +2326,7 @@
         {
           "id": "IV-20-172",
           "home": "Iskra Księginice",
-          "away": "AKS Strzegom\t14 marca",
+          "away": "AKS Strzegom",
           "score": {
             "home": 2,
             "away": 0
@@ -2339,7 +2339,7 @@
         {
           "id": "IV-20-173",
           "home": "Piast Nowa Ruda",
-          "away": "Twardy Świętoszów\t14 marca",
+          "away": "Twardy Świętoszów",
           "score": {
             "home": 1,
             "away": 0
@@ -2352,7 +2352,7 @@
         {
           "id": "IV-20-174",
           "home": "Polonia Środa Śląska",
-          "away": "Górnik Wałbrzych\t14 marca",
+          "away": "Górnik Wałbrzych",
           "score": {
             "home": 2,
             "away": 0
@@ -2378,7 +2378,7 @@
         {
           "id": "IV-20-176",
           "home": "Orzeł Ząbkowice Śląskie",
-          "away": "GKS Mirków/Długołęka\t14 marca",
+          "away": "GKS Mirków/Długołęka",
           "score": {
             "home": 1,
             "away": 2
@@ -2391,7 +2391,7 @@
         {
           "id": "IV-20-177",
           "home": "Lechia Dzierżoniów",
-          "away": "Moto Jelcz Oława\t14 marca",
+          "away": "Moto Jelcz Oława",
           "score": {
             "home": 1,
             "away": 0
@@ -2404,7 +2404,7 @@
         {
           "id": "IV-20-178",
           "home": "Piast Żmigród",
-          "away": "Górnik Złotoryja\t14 marca",
+          "away": "Górnik Złotoryja",
           "score": {
             "home": 2,
             "away": 4
@@ -2417,7 +2417,7 @@
         {
           "id": "IV-20-179",
           "home": "Chrobry II Głogów",
-          "away": "Łużyce Lubań\t14 marca",
+          "away": "Łużyce Lubań",
           "score": {
             "home": 2,
             "away": 0
@@ -2430,7 +2430,7 @@
         {
           "id": "IV-20-180",
           "home": "Barycz Sułów",
-          "away": "Błyskawica Gać\t14 marca",
+          "away": "Błyskawica Gać",
           "score": {
             "home": 3,
             "away": 1
