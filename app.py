@@ -26,7 +26,14 @@ def get_last(x, n=5): return x[-n:]
 
 def clean_team(x):
     x = re.sub(r'\d{1,2} \w+, \d{2}:\d{2}', '', x)
-    return x.replace("–", "-").strip()
+    return x.replace("–", "-").strip().lower()
+
+def find_team(name, teams):
+    name = name.lower().strip()
+    for t in teams:
+        if name in t.lower():
+            return t
+    return None
 
 # ========================
 # LOAD DATA
@@ -96,7 +103,7 @@ model = RandomForestClassifier(n_estimators=100, random_state=42)
 model.fit(X, y)
 
 # ========================
-# H2H (NA ORYGINALNYCH NAZWACH)
+# H2H
 # ========================
 def get_h2h(home, away):
     res = []
@@ -139,11 +146,15 @@ if st.button("Generuj"):
     results = []
 
     for m in matches:
-        h_raw, a_raw = m["home_raw"], m["away_raw"]
+        h_raw = m["home_raw"]
+        a_raw = m["away_raw"]
 
-        # znajdź dokładne nazwy w danych
-        h_key = next((t for t in teams if t.lower() == h_raw.lower()), None)
-        a_key = next((t for t in teams if t.lower() == a_raw.lower()), None)
+        h_key = find_team(h_raw, teams)
+        a_key = find_team(a_raw, teams)
+
+        # DEBUG (możesz usunąć później)
+        st.write("DEBUG:", h_raw, "->", h_key)
+        st.write("DEBUG:", a_raw, "->", a_key)
 
         if not h_key or not a_key:
             continue
