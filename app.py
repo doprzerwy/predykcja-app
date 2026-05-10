@@ -68,12 +68,12 @@ files_map = {
 
     "KO Wrocław": (
         "1E_E2cLvcUKbN5ZyiwoGYa6k6EWyeQCt0",
-        "TUTAJ_WSTAW_ID_2026_2027"
+        "1DQAEjdUvzgCCCyXLTd8_80788pV5odv3"
     ),
 
     "KO JG": (
         "154Vr3dq03u0Q2ufRq508R15ovzfAkvuM",
-        "TUTAJ_WSTAW_ID_2026_2027"
+        "1bbBJV4FHVcu4GIGQLLe5j5iFtFzLkx3-"
     ),
 
     "KO Wałbrzych": (
@@ -83,7 +83,7 @@ files_map = {
 
     "KO Legnica": (
         "1D78lfbIfFiGuhgtNdQ9VOOYTwln_3ZXa",
-        "TUTAJ_WSTAW_ID_2026_2027"
+        "1zt3PDBGe3ftVW4qXfg7_PBHtGPFDlOKF"
     )
 }
 
